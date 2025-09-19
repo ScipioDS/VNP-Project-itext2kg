@@ -1,0 +1,866 @@
+hi everyone I'm David mclin and over the
+past year I've helped more than 30,000
+students get their PMP certification and
+I've also taken more than a thousand
+practice questions myself some directly
+from PMI and in putting those two things
+together I've found a few key things
+that really work when you're answering
+questions on your PMP exam it's sort of
+a cheat sheet if you will in fact I've
+called it the PMP fast trck because
+these few little tips and tricks that
+I'm about to share with you now will
+actually really help you to pass your
+PMP exam whether you're good at taking
+tests or whether you've studied all of
+these things already it will really
+really help you and it will just help
+you understand what you need to do and
+what you need to know for your exam as
+well these little few tips and tricks
+it's going to be fantastic also I've
+already got this on my course which is
+my udemy course the link in the
+description is below I'm going to make
+this available as a download for the
+videos and a download for this um for
+this presentation so those in the course
+can get that and for this particular on
+YouTube I'm not sure how long I'm going
+to keep it up I did want to give a
+version out there for free just because
+I used a lot of free resources when I
+was getting my PMP and it honestly it
+helped turn my life around it truly
+changed my career so I just want to give
+back a little bit let's get into it
+anyway that's enough of me waffling on
+uh there's three key sections to the PMP
+FasTrack and that is people so the
+people uh conflict and Leadership that
+we're going to need to know when we're
+answering PMP questions the process so
+agile process and the predictive process
+what do we do when what are the steps
+that we need to go through uh when we're
+in a certain phase of our project so
+that we can answer the question
+correctly and then there's a there's a
+little thing here cuz uh you'll notice
+that these actually match up with the
+pmi's talent triangle so power skills
+which is people skills way of working
+which is our process but business Acumen
+uh that one is just so simple it really
+is just deliver value and we'll go
+through that in a second so uh we didn't
+need a whole section on that what I've
+done is replaced that with some general
+exam tips now I've given these General
+exam tips before if you've seen them
+already then just skip past that section
+but if you haven't these will truly take
+your PMP exam to the next level just
+these exam tips by themselves will help
+you pass the PMP exam so it'll really
+really up your game so I think that's
+the next one up so let's get straight
+into the general exam tips and then we
+can get into the real really good stuff
+of the PMP Fast Track after that all
+right General tips again I won't go
+through these in a lot of detail because
+we've been through them already when you
+take the PMP exam you're probably going
+to see the majority of questions
+scenario based something's going wrong
+we need to solve that problem scenario
+with our project management and our
+people's skills which is why those
+things are so important and our project
+management processes usually you'll have
+two or three answers that seem correct
+and we have to choose the most correct
+answer so it's really really quite
+tricky so here are the first five tips
+in the general exam Fast Track when you
+go through the question highlight all
+the keywords yes it is a digital exam
+but you have some tools it's like a
+little PowerPoint presentation similar
+to what you're looking at now you can
+actually highlight the key words uh so
+is it about risk is it about uh is it
+about scope is it about the project
+sponsor or is it about conflict what is
+it exactly about uh all the information
+you need is going to be included in the
+question so don't worry about missing
+something now we wanted to determine if
+the project is predictive agile or
+hybrid uh and we need to do that because
+we're going to respond to the question
+differently depending on each one so is
+it predictive is it agile we need to
+figure that out by highlighting the key
+wordss then we just need to decide on
+the topic or principle that where that
+the question is asking us to solve and
+that again is it about risk is it about
+scope is it about project sponsor is it
+about negotiation uh it should be pretty
+clear highlight the key words and decide
+which topic uh the question is asking us
+to solve then just get rid of any
+answers that don't directly relate to
+that project methodology so if the
+question is about risk then get rid of
+all of the other ones that don't relate
+to risk and at the end select one of the
+remaining answers now this is the
+elimination method you've seen this us
+you've seen me use this in the 200 agile
+questions uh and the 150 uh PBX 7
+questions and a whole bunch of other
+questions and answer videos uh that's
+the method that I use and it works
+really really well uh so I won't go into
+that you can view those question and
+answer videos separately and just see it
+in practice but uh it's pretty good so
+it will really really help you make sure
+you answer every question because if you
+don't answer it you can't get the points
+and know your timing it will count down
+from 230 minutes you have a minute and
+15 seconds for each question because
+you've got 180 questions so at 60
+Questions when you've got your first
+break you should have 155 minutes
+remaining and at 120 questions you
+should have 80 minutes remaining so make
+sure you keep an eye on that clock and
+uh don't freak out just try and keep
+within that 1 minute and 15 seconds
+that's actually part of the real
+challenge it's uh that's what makes it
+quite
+okay so that was nice and easy right if
+you've seen it before I apologize but if
+you haven't that's really going to help
+you now we're going to get into some of
+the really really good stuff and this
+stuff is really powerful the people and
+then the process for project management
+let's start with the people and this is
+all about things like conflict
+negotiation uh working with people
+stakeholders and all that sort of thing
+and the first three tips are really just
+high level things that we're go that you
+can default to uh anytime that you're
+unsure and the first one is it's so
+simple but it makes sense as a project
+manager remember our ultimate goal is to
+deliver the project surprise surprise
+and also to make sure that the project
+delivers value so if you have a question
+where it says delay the project don't do
+it if you're adding St adding uh extra
+resources try not to do it um if if
+we're doing anything that doesn't
+deliver value or that hinders us from
+deliver value try to avid it that's our
+ultimate goal is to deliver value
+amongst everything else and these other
+things are really really good as well
+with the questions you'll find something
+going wrong uh people are unhappy be
+direct go direct to the source of the
+problem always but also be collaborative
+so don't be sneaky don't be underhanded
+go directly to the problem and be
+collaborative in your response just that
+one alone is probably going to be 40 to
+50 % of the questions uh that you can
+fall back on and then the third one here
+is be honest so again don't do sneaky or
+underhanded things in your answers you
+will have the option to do that be
+honest take responsibility and don't
+pass the buck to other people uh
+remember it's our responsibility to
+deliver value above everything else
+first three ones pretty simple but now
+we're going to get into a little bit
+more detail and the detail starts with
+problem solving you're going to notice
+in your exam questions uh that you uh
+that you're going to have a lot of
+options you might you know add resources
+you might delay the project you might do
+this that or the other but what we
+really want to be doing is problem
+solving you know or you might be getting
+rid of a key stakeholder problem solve
+always always always default to problem
+solve problem solve problem solve
+problem solve find the root cause of the
+issue before using any money make sure
+we're solving the right problem so go to
+the directly to where the problem is
+happening is it the team is it the
+supplier look for the keywords in the
+question if they use terms that you are
+unfamiliar with in the question then
+revert back to the question keywords and
+make sure that you're solving the root
+cause of the problem so what is the
+problem solving process and this is
+going to be handy because you might be
+at a different phase depending on where
+your question is Define the problem
+first I identify the root cause next
+that's going to be a big one brainstorm
+Solutions with your team choose the best
+one implement it and then verify that it
+worked that is your very simple plan do
+check act your Deming cycle you probably
+know from your project management uh
+education uh we're planning doing
+checking and adjusting uh to see if it
+worked or if it didn't work so always
+default to problem solving if you can
+and then always go direct to the the
+person to the team or where the issue is
+now I mentioned this before but this is
+using expert judgment and you remember
+this from the pinok guide use the right
+expertise so go to the team for their
+way of working go to the team for the
+estimates on their way of work or on the
+work that they're performing sorry the
+customer go to the customer for their
+requirements and go to the customer for
+product feedback so always go direct to
+the right person to wherever the issue
+is in the question that one is also
+going to be extremely useful uh now here
+is another one problem solve before you
+escalate so ideally look what will
+happen is you'll have a few questions
+where you may need to escalate but you
+but before you do we're probably going
+to want to problem solve first so before
+escalating to the pro to the project
+sponsor try and solve it first be direct
+and collaborative if you've got answers
+with those options don't suspend the
+project if you can help it uh again
+sometimes you may need to but don't make
+that your first answer try not to
+suspend the project if you can help it
+because we want to be delivering value
+do not add resources or delay items
+again if you can help it because we want
+to problem solve first so again default
+to trying to solve the problem as a
+project manager and that's really where
+we want to be now conflict people and
+conflict uh it happens in the real world
+it happens on the PMP exam so this is
+what we want to know again uh there's
+different uh types of conflict
+resolution types you should know these
+from your PMP education check out my
+udemy course if you don't know it or if
+they didn't teach you these things
+because it's definitely in my course
+problem solving is the one that we want
+to go for surprise surprise that's a
+winwin approach now compromising is
+often the second choice here because
+both of us are giving up a little bit
+it's known as a lose lose approach but
+both parties are giving up a little bit
+so that's why you know it's still sort
+of even I guess uh now the ones that we
+don't really want to go for
+accommodating um only accommodate if
+there's an extreme power imbalance like
+if the project sponsor is forcing us to
+do something then it's probably uh there
+there's a power and balance there we can
+accommodate them so it's a bit of a lose
+for us bit of a win for them but again
+uh they're in charge they're funding it
+so that's up to them probably these ones
+forcing it and avoiding it those are the
+ones we don't really want to do again
+these are in order so ideally problem
+solving is first uh senior Executives
+can influence other senior Executives so
+if uh if there is an issue with other
+senior Executives and we don't have the
+power to deal with it again go to where
+the power level is correct and part of
+that is understanding accountabilities
+and responsibilities so making sure that
+we know who does what because that's
+going to influence how we answer the
+questions uh the project manager ensures
+that the work gets done they also ensure
+that the team members are adequately
+trained so the team can help here but
+the project manager needs to know uh and
+needs to make sure that the team is
+trained correctly the project sponsor
+provides that funding and initiates the
+project with the project Charter and
+they sign off and accept the
+deliverables right at the end uh now
+customer can provide feedback on the
+product but ultimately the project
+sponsor or whoever is funding it will
+sign off and accept the deliverables the
+team provides estimates on their work
+they perform the work vendors are
+responsible for their deliverable if
+you've got
+procurements uh and that's outlined in
+the contract if you've got any issues
+always go back to the contract I think
+I've got more details on this later so
+uh oh in the process probably which is
+great so great segue into the last two
+phases of the PMP Fast Track the agile
+and predictive processes you will need
+to know again these step-by-step
+processes just to know where we're up to
+so we know what to do at each phase and
+let's start with the agile Fast Track or
+the agile process when you're uh when
+you're highlighting those keywords if
+how do we know if it's an agile pro
+project we look for these keywords and
+you'll recognize a lot of these
+iterations and Sprints the product owner
+scrum Master retrospectives
+demonstrations or reviews product or
+Sprint backlogs daily standups minimum
+viable products epics spikes carban
+boards and uh remember when you're
+answering questions the two different
+backlogs uh the Sprint backlog has our
+user stories and that's more detailed
+the product backlog is and the product
+Road M are a high level there more of
+our deliverables those are at the Epic
+Level so the higher level uh if you're
+answering questions around those and
+again creating with your team their way
+of work you'll have a lot of things that
+does relate to people as well the
+definition of ready and the definition
+of done so the criteria for when work
+can begin or the criteria for when a
+user story or a feature is complete uh
+we create this with the team it's a
+collaborative thing that we want to do
+in agile if we have the choice we always
+want to go for making the work visible
+do we send a document no do we send a
+report no we want to put all of our
+project information on the walls making
+it visible or in a team area in our
+information radiator so always go for
+making things visible use our kban board
+to view the work building up in each
+area for example testing development
+analysis uh is there lots of work
+building up here then we need to problem
+solve you guessed it we're going to hear
+that a lot um and also to limit the work
+in progress so we're not context
+switching we're not handing off we're
+not doing too many tasks we can focus
+and uh just really hone in and and get
+it done and also again no reports uh
+we're doing real things demonstrate the
+real things with the customer so not
+reports or documents uh if you have
+those choices always go for real things
+and demonstrating close iners place and
+time with your customer and with your
+with your team so agile work directly
+with the customer again on product
+requirements again we don't want big
+documents we actually go and talk to the
+customer and we say what are your
+requirements uh imagine that collocated
+face-to-face communication always go for
+those things again no documents protect
+the team as a servant leader from
+blockers from impediments and from
+versions you'll definitely have a few
+questions there it's our job to protect
+the team we want to remove blockers we
+want to escalate uh if it's beyond their
+level but we can we can take it to the
+next level for them and we want to
+always coach go for that keyword coach
+that team for growth uh if they don't
+have the capability that's uh again our
+responsibility just do it if you can if
+you have that option just get it done
+the minimum viable product is usually
+where we start it's a small piece we
+test it with the market we release it to
+the market quickly so that we can see if
+it's actually working uh you'll probably
+have quite a few questions on MVPs and
+minimum viable products just release
+something small to get that feedback now
+the last two in agile uh know your
+ceremonies and know your uh know your
+people and your roles so you could
+probably tell these to me I hope if
+you've done your project management
+education uh again check out my udy
+course it has all of this stuff it's all
+in there the backlog refinement is where
+we get together with our customer
+developer and tester to break down epics
+into smaller user stories add the
+acceptance criteria now the key here
+always go for smaller if you can so it
+has to fit in an iteration uh smaller
+releases we're going to go for so that
+we can release value sooner always go
+for smaller if you can help it iteration
+planning we're planning the next
+iteration work with a team again the
+team get together to do this the daily
+standup where we meet together to
+discuss what we've done what we're going
+to do and if anything is blocking us so
+any any impediments and we can remove
+those impediments as a servant leader
+iteration review where we're uh
+demonstrating an actual piece that we've
+created with our customer or with the
+product owner and a retrospective where
+we're improving our process so we say
+what worked well what didn't work well
+uh what did we learn and what still
+puzzles us and that just helps us
+improve our way of work working with the
+team and we do that at the end of our
+iteration so that we can continuously
+improve now the roles are important as
+well know your product owner they
+prioritize the product backlog and if
+any if anyone adds scope they can but
+the product owner still has to approve
+it so if you get questions there the
+product owner approves those changes in
+scope and they prioritize highest value
+to lowest value highest value first
+scrum Master is the servant leader they
+remove blockers grow grow the team coach
+the team facilitates and problem solves
+with the team remembering that um making
+sure that we've got psychological safety
+so our team can speak up the team
+themselves in the team we want t-shaped
+generalizing Specialists you should know
+what this is again uh uh one deep
+specialty and many different uh areas of
+Interest so they can do a bit of design
+a bit of uh business knowledge but uh
+their developers at heart so that's our
+t-shaped generalizing Specialists and we
+can coach them or help uh help grow
+those people into t-shaped people if we
+need to uh the team delivers value as
+outlined in the definition of done oh
+and the last one here the team uses
+wideband dely so remember uh they
+everyone who's working on the item
+estimates the effort and the high and
+low discuss and they say hey this is why
+I think it's low this is why I think
+it's high and the team comes to a
+consensus that's also planning poker in
+agile so if you're estimating in agile
+it's probably going to be that method
+amazing work now that's our process for
+agile process for predictive let's get
+into that one next uh and that's the
+last part that's our stepbystep
+sequential projects and fairly simple
+the business case we start with what how
+are we delivering value what value are
+we delivering that feeds into the
+project Charter the project Charter
+initiates our project and if if you ever
+get questions uh check that project
+Charter for the high level goals and the
+high level deliverables of our project
+so to know why we started it in the
+first place if we're working with a team
+we use a team charter for our team ways
+of working roles and agreements and we
+are always improving this and iterating
+on this in predictive we're going to
+need to know some basic mathematics and
+this is for our earned value management
+planned value is what we said we would
+have completed at this point in time
+earned value is what we have actually
+completed at this point in time actual
+cost is what we have actually spent at
+this point in time so knowing these
+things they may not even use those terms
+just so that you know uh it might just
+be your project has spent 500,000 um
+it's delivered uh $200,000 worth of
+value and this sort of thing um and we
+need to know if we're behind or if we're
+ahead or if we've spent more than we
+should so we need to be able to figure
+that out it's really does come back to
+basic mathematics you should be able to
+figure it out here are a few tips for
+these two things if you get SPI schedule
+performance index cost performance index
+schedule variance or cost variance
+always remember cost performance index
+or schedule performance index one is the
+key so one is where we should be if it's
+one if it's over one so 1.25 we've
+delivered more value than we said we
+would so we're ahead of schedule or
+we're under our cost uh but if it's less
+than one so 0.85 for example uh then
+we've delivered less than what we said
+we would have so uh we're over our
+budget or we're behind on our schedule I
+hope that makes sense and that's it's a
+little bit tricky but that way it's like
+super easy to remember just remember
+anything around the number one more
+we've delivered more less we've
+delivered less same with schedule
+variance and cost variance uh it's
+except it's positive or negative so
+positive we've delivered more than we
+said we would and so we're ahead of our
+schedule or under our cost negative so
+less than zero we've delivered less than
+what we said we would so we're behind on
+our schedule or over our cost so pretty
+cool and pretty easy and that's a nice
+little trick I like that one now you
+know just in case you get any of those
+questions always know your processes and
+always know your plans and documents
+remember We Gather our stakeholders
+gather the scope uh put it on a schedule
+break it down put it on a schedule uh
+put it to a cost and a budget uh make
+sure that we've got our quality plans in
+place gather our resources uh ensure we
+know how we're communicating plan our
+risk and plan our procurement and if you
+get any questions on what to do in any
+of these areas go back to your plan so
+your schedule management plan for your
+schedule your cost management plan for
+the budget uh how do we manage scope go
+back to your scope management plan each
+of these plans has the roles and the
+process for how that area is handled so
+always remember that and let's go into
+these in a little bit more detail
+stakeholder engagement plan we use this
+one when we need to find people when we
+need to add people and who and how do we
+engage people on our project we'll
+definitely get questions around this
+identify those stakeholders uh and
+classify them uh you could classify them
+any many different ways influence and
+impact is one of my favorites uh you
+might have the salience model which is a
+3D or a cube method which is power uh
+urgency and legitimacy I think the three
+different things and then we put all of
+that information in the stakeholder
+register all of our stakeholders and we
+use our Communications management plan
+for how and what we need to communicate
+with those stakeholders if we ever get
+questions now Deep dive into scope the
+requirements come from the customer uh
+or we could get best best practices by
+benchmarking against another company but
+generally we're going to be working with
+our customer directly we turn these into
+our scope statement the work breakdown
+structure and work packages so where
+breaking it down into smaller and
+smaller pieces into a work package we
+can uh assign to a team member the
+customer can verify the scope through
+their quality control but the project
+sponsor or whoever is paying for the
+project is the one who signs off on that
+scope once complete and we did say that
+a little bit before but uh just
+reiterating that so that's part of the
+scope process for schedule management we
+break down those work packages into
+activities on a schedule and then we
+place them on a schedule now we need to
+know a few things with schedule
+management and we've got precedence
+diagramming and I've got tricks for all
+of these so remember with precedence
+diagramming think of it like two
+activities and it's in the same order as
+the two words so finish to finish the
+second activity cannot finish until the
+first activity has finished finish to
+start the second activity cannot start
+until the first activity has finished so
+it's just in the same order and this one
+here start to finish the second activity
+cannot finish until the first activity
+has started so if you get questions
+around that that's the trick for
+precedence diagramming and how to order
+order things on your project float or
+slack is available room to move an item
+without affecting other items or
+affecting the project so uh that is what
+we need to know there the critical path
+is the shortest project duration of P of
+tasks that have to be done in sequence
+so if we can't move these and we can't
+do them in parallel they have to be done
+in sequence um then that is going to be
+the shortest time we can complete the
+project in that's the critical path and
+anything that moves on that critical
+path then it's going to it's critical so
+it moves everything which is a pain
+using leads we're leading it forward and
+using lags it is lagging behind so we
+can move it backwards fast tracking is
+always preferred that's performing
+activities in parallel um but we can use
+crashing which is adding resources and
+cost if we are under budget so if we're
+under budget we can use schedule cra
+cashing which is adding those resources
+and cost but that does increase the risk
+so always be aware of that you might
+have a few answers around risk and
+crashing you're probably going to get a
+few questions on estimating estimating
+with the team know your three-point
+estimation or your beta or per
+estimation these two are so similar um
+but you probably have a question on one
+or both of these it's the optimistic
+estimate and the most likely estimate
+and then the pessimistic estimate so we
+add those together and then divide by
+three it's just an average so it's so
+simple it's just an average so if we'
+got four uh five and six and that's 15 /
+3 then our average is five that's going
+to be our estimate uh now the same thing
+for beta except it's four times the most
+likely and then to get an average we
+need to divide it by six instead because
+there's now six numbers I hope that
+makes sense um again very
+straightforward uh those two you'll
+probably get at least one question
+bottom up estimation that is adding all
+of the lower level items together and
+estimating on those and then aggregating
+them up into the higher levels of the
+project to get an overall estimate that
+is more precise so we're we're getting
+right into the detail it's more precise
+um but if we want a faster oh it takes
+longer though too so if we want a faster
+method use analogous estimation that's
+faster and less precise we just use
+information from a similar project or a
+similar deliverable to estimate on
+whatever we're looking at and we we
+might use parametric estimation probably
+won't get anything around this but it's
+using a parameter like $10 a meter or
+$100 an hour all those sorts of things
+now one of the best parts about
+predictive this is uh the Change Control
+process very very important remember in
+predictive we can't make a change uh to
+any baselined plan or any baselined
+deliverable without going through the
+formal Change Control process and
+generally that Change Control process
+looks like this so any stakeholder can
+request or raise a change we will need
+to note that in the change log so we
+note that down then we analyze the
+impact of that change to our cost and
+schedule because we need to know if it's
+going to be good or bad or if it's going
+to impact us we take that change to the
+approvers that's usually the Change
+Control Board uh but it's outlined in
+the change management plan remember that
+one uh they will give us an outcome
+approved rejected or deferred and uh we
+communicate that outcome to the
+stakeholders and then we note that
+outcome in the change log and we proceed
+we either go ahead with it or we uh just
+proceed as we were that's our change
+management process risk management is
+also a big deal so remember an issue has
+happened already so if it's already
+happened we noted in the issue log if it
+hasn't happened and it could happen in
+the future it's a risk and we note it in
+the risk register so we brainstorm those
+risks with the team log and update in
+the risk register then I classify it by
+its likelihood and impact from 1 to five
+and you might get some questions around
+this on what which risks to do first so
+always go with the highest risks early
+so if it's a likelihood of three and an
+impact of four if we multiply those
+together that gives us 12 uh so if
+there's one that's five and a five
+that's 5 * 5 is 25 that's going to be
+higher so we want to do that first so
+that's how you figure those out um
+remember to multiply those two things
+together uh and that's how you determine
+which one is the highest if a risk was
+previously identified on your project
+always remember to use the risk response
+that you came up with so if you've got
+that risk response there already
+try and use it try and use that one
+first and know your risk responses for
+risks we could accept the risk uh that's
+just not doing anything uh we note the
+risk down and we just don't do anything
+about it we also might want to mitigate
+our risk we take action to address uh
+that risk specifically so we put it in
+controls uh we could transfer the risk
+using Insurance um to transfer the risk
+or transfer it to another party escalate
+the risk if it's out of our control if
+we don't have authority to address it or
+if it's out of the control of the
+project and we can avoid the risk by
+just removing the piece of scope that
+causes that risk in the first place so
+always know your risk responses lastly
+we're going to be working with vendors
+and procurements on our projects in the
+PMP exam the statement of work is what
+needs to be done by the vendor or the
+seller so always remember that always
+check the contract if there is a dispute
+so if something's gone wrong and people
+can't agree always go back to the
+contract uh to figure out what needs to
+be done and how to address it and we can
+help problem solve with the vendor but
+the vendor is ultimately responsible for
+their work so don't take on their work
+uh make sure that we we can problem
+solve with them but they still have to
+do it not us and don't delay the project
+just use different contract types to
+manage the uncertainty so if we've got
+clear and stable scope we can use a
+fixed price contract if scope is
+expected to change we can use a cost
+reimbursable uh contract so Cost Plus an
+incentive fee for example or if uh if
+it's just ongoing with no end in sight
+we might just want to use a time and
+materials contract so that's just an
+ongoing contract as we're closing the
+project just know the general closing
+steps we always want to uh make sure
+that we're handing it off uh and making
+sure that it has Del the value that that
+they wanted so finalize any open claims
+make sure there's no claims on the
+project uh without procurements or our
+vendors confirm formal acceptance with
+the uh with the business so make sure
+they've accepted the deliverable and
+ensure that transition to operations
+then we can formally release our
+resources and close any accounts so
+people can't uh take money from the
+project accounts anymore and then
+finalize the Lessons Learned archive
+that project information
+and measure the project benefits uh
+product benefits uh that could be done
+sort of anywhere around here we can use
+agile and predictive together uh in a
+hybrid approach so again instead of
+adding resources or delaying the project
+we might have a uh a predictive project
+and we might need to do some agile have
+an agile track at the same time so
+understand that we can use hybrid both
+agile and predictive at the same time uh
+and that might solve some of our
+problems and there it is that's a lot so
+that's quite a lot but also really for
+such a huge amount of information that
+was quite a small amount of time uh so I
+hope that's helped I mean watch it again
+if you need to check it out know that uh
+I've I go through it in a bit more
+detail in my udemy course plus you can
+download the videos plus you can
+download the actual uh presentation so
+you can review that in your own time and
+look at that so that's a little bit more
+handy also again giving this away for
+free uh because free resources helped me
+if this does help you then consider
+getting the course to do your pdus to
+renew your certificate later on down the
+track or just consider my courses in
+general uh they're they're not bad
+they're a little bit of fun uh and we
+have those real projects that we go
+through and so yeah there it's it's
+actually it's a good bit of fun to go
+through I think you'll enjoy it but I
+hope you've enjoyed this I've certainly
+enjoyed myself it's the fastest way to
+get up to speed it's the PMP Fast Track
+and I'll see you in the next video bye
+for now

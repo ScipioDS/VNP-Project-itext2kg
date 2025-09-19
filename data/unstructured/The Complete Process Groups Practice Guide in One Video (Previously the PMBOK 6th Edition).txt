@@ -1,0 +1,587 @@
+for anyone studying for the PMP or new to project management or even just wanting to brush up on their project
+management skills you'll probably come across the process groups practice guide from the project management Institute
+which is actually an updated version of the project management body of knowledge sixth edition now there's a seventh
+edition now which has gone in a completely different direction but they've morphed this into the process groups practice guide now this is one of
+the most valuable things you could ever have as a project manager because it is a series of steps and process steps from
+start to finish on how to run your project and what better way to learn a book and go through a book than to
+actually create a mind map or a work breakdown structure of the inner workings of this particular book this is
+what we're going to do now and it's going to really help you absorb the process groups practice guide and take
+your project management to the next level as with any good mind map or work breakdown structure we're going to start
+at a very high level high level ideas and then we're going to get more detailed and then more detailed and then
+more detailed again it's a wonderful way to learn let's get into it the first thing you'll notice are there are two
+sections a project management overview just so we understand the lay of the land and then the process itself for the
+project management overview that's where we're going to start we start with an overview of the project landscape the
+project management environment and the role of the project manager themselves
+for the process we start with initiating planning a project executing a project
+monitoring and controlling a project project and then closing a project let's start at the beginning overview of
+projects we start with the importance of project management now it's important because without a project manager
+organizing all of the little bits and pieces then they often scatter and Things Fall Apart projects themselves
+Drive change we go from one state to the next state hopefully adding business
+value as we go a project is also a temporary Endeavor it has a start and an
+end and it drives business value so drives that change we also have projects
+uh programs and portfolios the operational level is our business as usual or baau projects make a change
+then multiple projects form a program and then multiple programs form a
+portfolio and that also encompasses the operations uh when we when we come down
+to it project life cycles and phases this is where we've got our predictive uh iterative incremental and adaptive so
+agile and waterfall basically and you've got your waterfall which is your step-by-step requirements analysis
+design coding testing and putting all of that into ba or operations so we choose
+the life cycle the Project Life Cycle that's going to fit our project the best
+as we go along on our project management Journey we collect data and we refine
+that and turn that into meaningful information that we can share with Executives and other project
+stakeholders we want to tailor our project tailoring the project is very important because each project will be a
+little bit different managing benefits and project success measures we want to start with the end in mind so we really
+want to have an idea of where the project is going and the value that we're delivering and we have a project
+Charter to kick off our project and a project management plan to manage the project as we go along now in the
+project management environment there are two main things that you'll come across quite a lot and that is the Enterprise
+environmental factors or e defs and organizational process assets or opas
+these are process assets that uh that are within the organization so processes uh governance templates things like that
+the environment that we're working in includes the way work gets done so politics uh maybe different products
+just have different ways of working for example you can create a car step by step but a software product you might
+need to do an iterative approach so that's the environment that we're working in is it physical is it uh
+software all that sort of thing these are all differences and that's why we tailor our project organizational and
+project governance so we do need to understand the organizational governance and how work gets done and also the
+project governance and how the work gets done within the project this includes man management elements so us as
+managers and managers within the organization but also organizational structures there are different ones here
+so these uh range from a high level of influence the where the project manager has a high level of influence to a low
+level of influence and what we've got is a project management office or project oriented organizational structure we the
+or the project manager has a high level of influence in these ones because it's all about the pmo and the projects then
+we've got a matrix strong to weak organization so strong we still have a high level of influence but as it gets
+weaker then we have a low level of influence we don't really do the budgeting maybe the budget is given to
+us by by someone external maybe the functional manager and as we go down to the functional and organic then
+functional managers are usually running the show and they might be doing a small process Improvement within their team so
+that often they'll just have an ad hoc project manager or someone within their team doing it there are different pmo
+types project management organizations or offices sorry they might be directive controlling or supportive directive
+takes control over the whole thing controlling gives Frameworks and ideas and ways of working and says operate
+Within These Frameworks and supportive just gives templates and says here here are some ideas and you can use these if
+you really want to we're here to support you now what does the role of the man role of the project manager play Within
+all of these things we've got our own sphere of influence so we can influence our own project team but then there are
+governing bodies there's the project management office steering committees and that's a little bit outside of our
+uh of our sphere of influence but still within it and then we've got our industry suppliers customers and that's
+often outside of our sphere of influence but we still need to negotiate and influence them using our own personal
+power project manager competencies that we'll need are power skills so soft skills business Acumen we need to
+understand the business that we're working in and the ways of working which is this particular process and the project management process groups we'll
+also need the qualities and skills of a leader there are different leadership types from servant leadership to
+directive leadership to LZ Fair leadership hands off all sorts of different way
+and Performing integration is where we take all of these process steps and we integrate them all together and we
+become that binding glue for our project as the project manager now we get to go
+into the process and we'll give a high level overview here and then as I promised with the with that work
+breakdown structure approach we will get into the nitty-gritty of each one so first we develop a project Charter to
+kick off our project and we identify all of the stakeholders that we need to work with then we create our project
+management plan and this is part of the that plan that keeps everything together and in that plan we want to plan our
+scope so we gather that scope collect the requirements Define the scope and then create our work breakdown structure
+for all of that scope that we have have elicited from our customers once we have that we can start planning our schedule
+we Define the activities from the scope that we found sequence those activities put them into a nice sequence here using
+a using a schedule Network diagram then we estimate the activity durations so
+how long will each one take and once we have all of those bits of information we can develop the schedule and put those
+on a nice Gant chart once we have our scope and our schedule then we can look at the cost so planning cost management
+how are we going to work with cost on our project then we estimate the costs for all of those different activities
+and different parts of scope and then we use that to determine the budget now there's a bit more to it than that but
+we'll go into that a little bit later then we can plan quality so how are we doing quality assurance or testing
+planning Resource Management how are we getting people and who are we getting we need to estimate the resources that we
+need planning Communications management how are we uh communicating with our customers and with our stakeholders
+planning risk management we need to identify the risks perform qualitative risk analysis quantitative risk analysis
+which is much more data heavy and then plan the risk responses how are we going to respond to those risks that we find
+that might impact our project planning procurement management is how we operate with with vendors and planning
+stakeholder engagement is how we keep our stakeholders engaged now the rest of these processes at a high level is just
+the same knowledge groups so scope schedule planning cost uh quality resources Communications risk
+procurement and stakeholders uh but now we're just executing and Performing these tasks we're directing and managing
+the project work we're managing quality we're acquiring the resources that we need developing and managing our team
+we're managing Communications to make sure that the communications are effective implementing risk responses as
+those risks come up conducting procurements getting those vendors on board and managing our stakeholder
+engagement to keep our stakeholders engaged and then we need to control our project and keep everything under
+control the same deal uh the the main differences here are we have change
+control which is uh change management process so how do we make sure that if there's a change in the scope that uh
+it's approved and it's doesn't impact our project schedule or it doesn't impact our project cost or if it does
+then that's approved the other thing is validating scope is once we've uh once we've uh created those deliverables and
+finished them then they need to be signed off by whoever the customer is usually a project sponsor or whoever is
+receiving that particular deliverable the rest we just Monitor and control risks quality resources procurements and
+stakeholder engagement and then when we're closing we can close a project or it could just be a project phase and
+then we do all of this again for the next phase if we're working in an iterative method or an iterative way of
+work now all of this as you can see we've got uh the first one all the way
+back at the beginning developing project Charter this goes down another level again so developing project Charter in
+the process groups practice guide we might have inputs to that particular process the tools that we use for that
+particular process and then the outputs so what are we trying to get by doing develop project Charter and this is
+where the real gold lies so if you've seen enough already at this point then feel free to stop this video and leave
+but if you want to get into the nitty-gritty of all of these inputs tools and outputs for each process then
+continue watching and really get the the goods for the rest of these processes let's see what we've got for develop
+project Charter the inputs we need business documents so we need a business case so is it actually worth doing the
+project in the first place we also need a benefits management plan because we need to know what the benefits for the
+project are going to be and how we're going to manage them we might have agreements in the business already and then Enterprise environmental factors
+what's the environment that we're working in and organizational process assets is there a tool or technique or a
+template that is already existing for our project Charter that we can use in the organization the tools that we're
+going to use are expert judgment we might need people from the industry who understand the product so we're going to
+need their expertise data Gathering brainstorming with them focus groups interviews making sure we're Gathering
+all that data on the pros and cons of the project interpersonal and team skills Conflict Management maybe people
+have competing ideas facilitation facilitating those groups of people and
+meeting management and then meetings themselves and the output that we're looking for is the project Charter
+itself so we're creating that project project Charter getting it signed off with the project sponsor and any
+assumptions that we've made along the way let's include those as well now the next one when we're initiating a project
+is identifying all the stakeholders that we're going to be working with so to do that we're going to need the project
+Charter that's going to have a high level idea of the stakeholders and business documents the business case and
+the benefits management plan will also have a nice idea project management plan as we start to create that project
+management plan we're going to have stakeholders in there so we can refer to that we might need the communications
+management plan stakeholder engagement plan all of this will have ideas of the stakeholders that we're working with and
+project documents change log issue log requirements documentation all of this will give us stakeholder ideas any prior
+agreements within the organization and of course the environment and any templates that are already existing for
+identifying stakeholders as always we're going to need expert judgment from people within the business who knows who
+Maybe we need them to give us an idea of the stakeholders that we need on our project we need to gather data with
+questionnaires and surveys to identify stakeholders stakeholder analysis and document analysis and data
+representation we need stakeholder mapping and representation now I can't go into these in a lot of detail for
+that you have to check out my course on PMP which will also give you 35 contact hours or pdus which is really really
+fantastic but just know that this is the level that it goes down to and uh in that course we actually go into and show
+what each of those particular items is we're going to need meetings and the output for identifying stakeholders is
+our stakeholder register with all of our stakeholders input into it we might need
+change requests and project management plan updates as we update with new stakeholders and project documents
+updates like assumptions issues or risk registers that have new stakeholders involved now we're going to move into
+the planning project and this is the biggest part of the process groups practice guide for developing the
+project management plan we're going to need the project Charter now this needs to be signed off by the project sponsor
+so is it approved to go ahead do we have the resources do we have the high level idea of the project and what's involved
+any output from other processes so scope schedule all of these things cost that's
+going to go into our project management plan and of course the environment that we're working in the industry or the
+organization and any process uh templates or process assets uh that we
+might have that will give us a clue on how to create our project management plan the tools and techniques we're
+going to need expert judgment from people within the organization who know about the project and things that we
+might need for our project management plan data Gathering focus groups checklists interviews and interpersonal
+and team skills Conflict Management as we create our project management plan and meetings to facilitate all of those
+things the outputs are the project management plan itself and we'll be updating this as our project goes along
+now as we move through planning we've got planning scope management what we need for planning scope management is
+the project Charter the high level scope in there and the project management plan and of course our environment and opas
+our process assets for managing scope expert judgment as always data analysis
+and then of course meetings to tie all that together and the outputs are our scope management plan which is the
+process for how we're managing scope and I have a great bunch of templates for uh scope management plan and entire the
+entire project management plan plan process actually pre-made with all of these little prompts for the process
+groups and and how to do it step by step so those are really really wonderful check out the description if you want to
+get those ready made and it'll save you dozens and dozens of hours of doing it yourself the requirements management
+plan is how we're going to manage the requirements now once we've got the process set up we want to collect the
+requirements themselves we're going to need the project Charter so what are the high level requirements the project
+management plan project documents so stakeholders and assumptions business documents the business case will have
+high level requirements already that we can use any agreements within the business and of course our Enterprise
+environmental factors and opas for any templates and the environment that we're working in tools and techniques people's
+expert judgment as always data Gathering data analysis decision- making data
+Gathering data representation interpersonal and team skills again to
+elicit all of those requirements and gather them from our stakeholders we can use context diagrams to put these
+together and prototypes so mockups or storyboards or models all of these things and again I can't go into all of
+those details at that level for this one but in the uh PMP course I certainly do
+which is pretty cool if you want to check that out requirements documentation so the output is the is
+the acceptance criteria for each of the items and the requirements that we're wanting to be delivered and then a
+requirements traceability Matrix how we how have we got the requirements through to the deliverables through to their
+test cases through to uh the approvals and sign offs and we're tracking that from start to finish once we've got the
+requirements we can start defining the scope that we're going to deliver in our project and that looks like we start
+with our project Charter the project management plan and project documents for any assumptions and of course our
+environment and any process assets that will help us along the way tools and Techniques expert judgment from people
+within the business as always data analysis uh so any alternatives for our
+scope decision making multicriteria decision- making which is my favorite way to make decisions by the way and
+I've got wonderful templates for that if you want to check that out uh we're going to need to facilitate all of these
+things and bring that together together so that we can put that scope together for our project and then product
+analysis we want to analyze our product and figure out which direction it needs to go in the outputs are our project
+scope statement so that's just a high level scope statement and project documents including the requirements
+documentation and so we're sort of updating those things updating stakeholders and updating the requirements traceability Matrix as we
+plan we're now creating the work breakdown structure similar to what we're doing for the process groups
+practice guide but for this it's a project and the inputs that we're going to need the scope management plan to
+figure out the process on how we're doing what we're doing for scope project documents and requirements documentation
+of course we're going to need our environment and any process assets to help us along the way tools and
+techniques or surprise surprise it's expert judgment from people within the business so we're going to need that and
+of course decomposition which is decomposing these things into more
+detailed and more detailed levels similar to what we're doing with this particular exercise which is really
+really great the scope Baseline is our output and project documents updates
+planning schedule this is another great one now we've got the scope we can move on to planning our schedule the inputs
+that we're going to need for this are the project Charter so high level Milestones that we might have outlaid
+the project management plan and of course the environment that we're working in and any uh assets or process
+assets that we have within the business that might help us plan our schedule so the systems or tools that we might have
+expert judgment from people within the business surprise surprise we're probably going to see this a lot by the looks of it analyzing data and meetings
+to tie it all together and the output that we're looking for is to create our schedule management plan which is the
+process for how we're going to manage our schedule once we've done that and we've got our process we can start
+defining the activities now can you guess what we're going to need as inputs for this well first of all the project
+management plan so the schedule management plan and the scope Baseline this is the most important one because
+we're going to take that scope Baseline and the work breakdown structure and the work packages and we're going to need to
+turn those into activities so we're going to use expert judgment we're going
+to use decomposition because we're going to decompose those work packages into activities so further rolling wave
+planning is something we can use that's an agile technique there's much more to it but you know that's an idea meetings
+to tie it all together and the outputs that we want are the list of activities themselves for the project the activity
+attributes so the resources cost and all of these things that we'll add as we go
+further and further through our project plan the Milestone list just a high level list of Milestones that we're
+going to adhere to on our project we might have change requests as we go along and project management plan
+updates so the schedule Baseline will be updated as we Define the activities and change those activities once we have
+that list of activities we want to put them in the right sequence exactly right
+so to do that what are we going to need the project management plan and we want the schedule management plan our process
+the scope Baseline and all of those activity lists and attributes and of course the environment so are we
+creating software or are we creating a car or or a chair or anything else or a
+vacuum cleaner all of these things and of course the process assets do we have a way to sequence activities in the
+organization already that we can already use tools and techniques the Precedence
+diagramming method dependency determination and integration which activities are dependent on each other
+leads and lags and of course we're going to need our project management information system so that holds all of
+the project data that we're going to be working with project schedule Network diagrams are things like the nodes so if
+these are the activities what is the sequence that we need to do these in and
+then project updates activity attributes we might need to update those as we go along once we've got that activity list
+and we've put them in sequence we need to estimate their durations so how long is are these activities going to take
+it's very important for us to know this even though it's just an estimate at this time so we're going to need the
+project management plan project documents so all of these things the activity list now tools and techniques
+we going to need the expert judgment as always of people in the organization but here are the estimating techniques and
+and these are absolutely my favorite so analagous estimating which is uh something similar to another feature or
+another project it's an analogy parametric estimating where it's say a dollar per meter or $10 per hour it's
+it's a parameter threo estimating is optimistic uh pessimistic and most
+likely and we get all those three together and we just divide it by three it's just an average basically and again
+we go into that in all the detail in the project management professional course but uh that's just one way to do it
+bottom up estimating is gathering all of the work packages and then uh Gathering them up to the next level and then that
+those levels to the next level until we have an overall project budget we're going to need data analysis to do all of
+that decision- making and meetings as always to tie it all together now the
+outputs that we're going to have are the duration estimates and the base of estimates so how did we come to those
+estimate decisions and updating any activity attributes and assumptions that we've made along the way now that we've
+estimated those activity durations we want to develop the overall schedule so the things that we're going to need are
+our project management plan project documents agreements and of course the environment and opas as always the tools
+and techniques that we're going to need are our schedule network analysis so that's our where everything the the
+sequence of where everything fits the critical path method so this is where we determine uh the critical path so the
+shortest time that we can complete our project resource optimization data analysis so what if scenario analysis
+leads and lags again bringing items leading them forward or lagging behind
+schedule compression So that's fast tracking or or schedule crashing project
+management information system where we house all that all of that data and Agile Release planning where we're
+planning for the next small increment in an agile project the outputs that we're going to have are the schedule Baseline
+itself the project schedule schedule data and project calendars change requests for the future if we need to
+make any changes project management plan updates to our schedule management plan and project documents updates now that
+we have our schedule we can start planning cost because we know what what our scope is and how long it's going to
+take now we can get an idea for how much how much it's going to cost cost and the inputs for this are our project Charter
+so the initial high level cost that we had in mind the project management plan and of course our EFS and opas well it's
+a we're always going to see those I think lots and lots of those every process that we see expert judgment is
+the other thing that we're going to see a lot of and data analysis for our tools and techniques so Alternatives analysis
+do we have different ways of managing our cost and meetings to tie it all
+together as always the output for this one is our cost management plan the process for how we're going to manage
+cost on our project now we've got that we can estimate the costs and the inputs
+so how do we start by estimating our costs we need our project management plan project documents Lessons Learned
+project schedule and surprise surprise it's EFS and opas wow what a what a
+surprise seeing them there and also another surprise expert judgment from people associated with cost or budgeting
+in the organization and then the different estimating methods of course analogous parametric
+bottom up three-point estimating data analysis to tie all that together in our estimates cost of quality now that's a
+really good one and again don't have time to go into that in lots of detail but cost of quality is a good one to
+understand what's the cost of preventing quality issues or or catching them before they get to the customer all of
+those things project management information system where we house all of that data and information for our project and decision making we might
+vote on uh how much things cost to get the best outcome there the outputs we
+want are our cost estimates themselves the basis of those estimates so what did we base those estimates on and project
+documents updates now of course we want to determine the budget itself so the inputs that we're going to need are our
+project management plan project documents business documents any agreements in the organization already
+and EFS and opas expert judgment so all of that from the right people within the business or the organization or the
+project cost aggregation where we're taking all of those the costs for the work packages aggregating them up into
+larger uh larger items features or deliverables and aggregating those up into an overall project budget then we
+need to analyze that management reserves and contingency reserves that will form part of our budget and again go into
+more more detail for that one in the PMP course uh historical information review so any historical information on past
+projects for analogous estimating funding limit reconciliation we
+obviously want to reconcile the budget uh the debits and credits and then
+financing the budget itself where is the money coming from the outputs that we want are the cost Baseline the approved
+budget Project funding requirements maybe there's milestones and they're released at certain times and project
+documents updates now that we've got our scope schedule and cost we can start looking at quality so how do we plan
+quality on our project we need our project Charter project management plan project documents EFS and opas tools and
+techniques surprise surprise it's expert judgment from people within the business
+data Gathering we can use benchmarking against other teams or organizations stuff like that it's really good stuff
+data analysis decision making and that's multi criteria decision analysis which
+is my absolute favorite great way to prioritize features in an agile project
+too data representation or mind mapping which we're becoming pretty familiar
+with in a roundabout way uh by doing this particular process test and inspection planning so the acceptance
+criteria against the requirements and the test cases themselves and of course
+meetings to tie it all together the outputs we want are our quality management plan our quality management
+process quality metrics how do we know when we're successful uccessful project management plan and project documents
+updates and of course updating that requirements traceability Matrix now that we've got quality under control we
+can start planning the resources on our project so how do we do that well we're going to need our project Charter we
+might have a high level idea of project resources that we had promised to us at
+the beginning when the project kicked off the project management plan for Quality Management plan and scope
+Baseline the project documents and EFS and opas as always seeing a lot of those
+and again expert judgment for the the right people at the right time planning
+the resources getting their input and ideas data representation hierarchical
+charts we might need a resource breakdown structure organizational Theory oh now this is amazing I love
+this and again there's a lot of this in the PMP course but this is how do we grow our team and how do we get the best
+psychological Ally out of our team and make sure that everyone is happy and engaged like herzberg's theory of
+motivation for example ai's Theory Zed or Z for those in America wonderful
+wonderful stuff meetings as always to tie it all together and the outputs are
+our Resource Management plan which is our resource management process exactly
+right the team charter so how is our team going to work together project document updates and these ones are
+extras that I think I have uh added inadvertently but we want to update assumptions and risks as always now that
+we've planned Resource Management we can start estimating the resources that we need for our project and you'll remember
+the estimating techniques that we have but first we need our project management plan project documents EFS and opas uh
+and the tools and Techniques expert judgement from the right people and then bottomup estimating analogous estimating
+parametric estimating and all of those things can help us estimate those resources data analysis to analyze the
+Alternatives that we need and then all of that information on our project is in our project management information
+system and that could be a system like SharePoint or jira or it could be
+Microsoft Project many different things whatever that system is it's always different meetings as always to tie it
+all together the outputs are our resource requirements and we now we've got the basis of those estimates the
+resource breakdown structure like we said which is that hierarchical chart we're going to update the activity
+attributes assumptions and any lessons that we learn along the way now that we've done that we want to plan the
+communications on our project for all of those stakeholders and communicating how things are going the project Charter
+project management plan project documents EFS and opas will all form an input here tools that we're going to use
+are expert judgment communication requirements analysis so how do people prefer to be communicated with
+communication technology maybe it's phones maybe it's over the Internet maybe it's messaging tools communication
+models now this is a really good thing uh many different ways to communicate and many different things to be aware of
+when we communicate so there's a whole bunch of great information on that one
+communication methods interpersonal and team skills data representation and of course meetings to tie it all together
+the outputs that we want here are our Communications management plan project management plan updates and project
+documents updates CU we might be updating our stakeholder engagement plan and how they want to be communicated
+with now we can plan risk management so planning risk management what what are we going to need as an input the project
+Charter for any high level risks project management plan project documents EFS
+and opas as always uh surprise surprise for tools and techniques we're going to
+to need expert judgment data analysis for stakeholders and the risks that they might come up with and meetings to tie
+it all together outputs is the risk management plan or the risk management
+process so that's what we've got there then we can identify all of the risks and we do that by brainstorming with our
+team so we need our project management plan for our risk management approach for example project documents for any
+issues or cost estimates or things that might uh bring risks to our project any
+agreements that we've made within the business already project documentation EFS and opas to help us identify risks
+we're going to need the right expert judgment from the right people uh maybe that's people within the business who know the product well or the the area
+well maybe it's uh uh data Engineers or software Engineers who have that information that can help us uh identify
+risks data Gathering brainstorming with those people data analysis doing root
+cause analysis and facilitating prompt lists so we might have categories of
+risks that will help us or they're prompt prompting us for risks that we might have and of course meetings to tie
+it all together the outputs that we have are is the risk register itself the list of risks and their categorization risk
+report which we send out to stakeholders on a regular basis just to to make sure that they're up to date on any project
+risks and the project documents updates any assumptions or issues that come up
+along the way performing qualitative risk analysis is the subjective method
+so this is where we usually look at our risks by the impact and likelihood and
+then we uh determine how severe those risks are going to be we're going to need our project management plan project
+documents EFS and opas as part of that expert judgment from the right people
+data Gathering data analysis interpersonal and team skills risk Cate
+categorization which is what we said here the impact and the likelihood data
+representation we put that into a probability and impact Matrix and meetings to tie all of those things
+together as always the outputs we want are project documents updates now
+quantitative risk analysis is Where We Gather lots and lots of data to to give
+more information to the risks that are happening that could be financial data it could be data on the weather for
+example I've seen in some insurance-based C companies on global warming um big simulations and Monte
+Carlo analysis this is we're going to need our project management plan project documents EFS and opas as always expert
+judgment data Gathering interpersonal and team skills representations of
+uncertainty and data analysis all of those things are for our tools and techniques representations of
+uncertainty that could be things like a histogram so now we see where the majority of the risks are coming from in
+this area here just as one example outputs the project documents updates we're going to need to update our risk
+report as we send that out on a regular basis to our stakeholders now once we've
+got all of that information with risk we can plan the risk responses how are we
+going to respond we're going to need our project management plan project documents EFS and opas as always the
+tools and techniques surprise surprise it's our expert judgment from the right people data Gathering interpersonal and
+team skills strategies for threats strategies for opportunities contingent
+response strategies so any leftover risks or or alternative risk strategies
+strategies for overall project risk data analysis might include cost benefit
+analysis on our responses and decision-making my favorite multicriteria decision analysis the
+outputs we want here we might have some change requests as we manage our risks and their responses project management
+plan updates and project documents updates all of these things can be updated schedule cost scope might change
+as we respond to risks and they change the way we approach our project now
+lastly in planning we can plan procurement management this is where
+we're needing a vendor to come on board and we could start with our project Charter because we might already have
+allocated a vendor or get gotten an idea of a vendor that's going to be required for our project business documents
+project management plan project documents like any Milestones that we need project team assignments if we've
+already assigned a vendor requirements documentation so the vendor can see what
+they're going to need to deliver and EFS and opas expert judgment I bet you weren't
+expecting that one um data Gathering data analysis Source selection and
+analysis is how we're going to approve the vendors and so we've got our criteria and then the vendors just need
+to meet that criteria in order to be approved and meetings to tie all of that
+together outputs are our procurement management plan which is our procurement management process exactly the strategy
+for procurement bid documents so request for information uh request for quote
+request for proposal procurement statement of work so that's the list of items that we're
+delivering Source selection criteria so uh how we're approving any vendors
+what's our source selection criteria make or buy decisions independent cost estimates so we know so we have an idea
+if something is worthwhile or not change requests project document updates and organizational process assets updates
+that we might come across oh lastly as well we going to need to plan stakeholder engagement where we need our
+project Charter for any initial stakeholders project management plan project documents any organizational
+agreements that are already in place EFS and opas the tools and techniques are
+expert judgment data Gathering data analysis decision- making data representation and meetings as always
+outputs is the stakeholder engagement plan itself which is our stakeholder engagement process so now we can move on
+to executing a project so actually doing the work directing and managing our
+Project work what we're going to need is our project management plan because this is how we've planned everything out
+project documents like our change log project Communications and approved change
+requests for any changes that go along EFS and opas we will need expert
+judgment as we execute our project and we'll need all of the information from our project management information
+system again could be Confluence SharePoint could be uh anything jira could be uh monday.com could be assana
+could be anything that your company is using could be Excel even meetings to tie it all together and the outputs we
+want the deliverables themselves this is where we're delivering the project work work performance data so how is
+everything tracking the raw data issue log for any issues that come up change
+requests for any changes that need to be made project management plan updates project document updates and
+organizational process assets updates as we're executing the project we're going to manage project knowledge so the
+project management plan project documents and the deliverables themselves will all form an input into
+managing our project knowledge because as we learn things we need to make sure that that is captured tools and
+Techniques expert judgement as always Knowledge Management so how are we managing the knowledge on our project
+information management how are we managing information where are we capturing all of those things and
+interpersonal and team skills so for facilitation and Leadership to gather
+and extract all of those lessons the outputs that we want here are our lessons learned register project
+management plan updates and organizational process assets updates managing quality so to manage quality as
+we execute our project uh the inputs that we're going to need are our project management plan so again this is our
+quality management process that we have already planned out project documents
+lessons or quality metrics risks that come up and organizational process assets for templates or tools tools for
+managing quality are checklists data analysis Alternatives analysis decision-
+making multicriteria decision analysis data representation and again lots more information in the in the full course on
+PMP that you can definitely go into or find information separately on those things and how to use those tools and
+templates auditing designing for X which is designing for a particular idea like
+ease of use for example or ease of assembly problem solving quality
+improvement methods so can we improve uh our quality process and the quality of
+the item itself the outputs that we want are quality reports the test and evaluation documents so the outputs of
+our testing change requests if we need if we've got defects that need to go back through and be uh be worked on
+again project management plan updates and project documents updates now that we're executing our
+project we can acquire the resources and the inputs that we're going to need are our project management plan our Resource
+Management plan if you could guess project documents EFS and opas the tools
+and techniques that we can use are decision- making interpersonal and team skills so multicriteria decision- making
+or negotiation as we negotiate uh the Gathering of resources with our business
+or with the business that we're working with pre-assignment if people have already been assigned to the project and
+virtual teams if we're working uh around the country with many different teams in different areas we might work virtually
+or online the outputs that we have are the physical resource assignments uh so that's the materials and then the
+project team assignments so that's the people resource calendars when are people available change requests project
+management updates project documents updates EF and opa updates now that
+we've acquired our team we can develop the team and the inputs that we want are our project management plan project
+documents EFS and opas so the resource management plan was our process for how we were going to do this we can now
+refer to that process lessons learned that we've learned along the way and the team charter for how we're working with
+our team tools and techniques that we're going to use include collocating our
+team so getting everyone together in the same space so that we can communicate quickly and easily virtual teams if we
+are geographically dispersed communication technology messaging tools uh telephone tools video conferencing
+tools Conflict Management influencing motivating negotiating and team building
+all of that we'll need to manage conflict within our team as we develop them recognition and rewards for the
+right things training our team to help them grow individual and team assessments to uh to see how they are
+traveling and of course meetings to tie all of those things together as our
+project management manager as you can tell uh we spend a lot of time in meetings by the looks of it lots of
+meetings in all those uh tools and techniques the outputs that we've got are the team performance assessments so
+how are we assessing our team how are they going change requests if we need to make a change project management plan
+updates to any resources project documents updates Enterprise environmental factors and opa updates
+that we might need once we've start developing our team we can manage the team as we go through our project with
+the project management plan project documents work performance reports team performance assessments that we've
+gathered EFS and opas and of course the process comes from our Resource
+Management plan we're going to need tools like interpersonal and team skills for Conflict Management the outputs
+include change requests for changes project management plan updates project documents updates and inv environmental
+factors updates so we might update our process the resource management plan any issues that come about and project team
+assignments if people need to be assigned differently or reassigned managing Communications on our project
+as we execute our project will include needing our project management plan for our Communications process project
+documents for issues or changes quality report risk report for risks work
+performance reports how is our project going we'll need to communicate Comm unicate that to our stakeholders EFS and
+opas tools and techniques will need communication technology so messaging
+emails reporting how are we actually communicating communication methods so face Toof face uh or different methods
+that we're using communication skills um so it could be non-verbal or
+presentations how do we gather feedback project management information system where we gather all of our project
+information project reporting we can use that to report and then uh gather
+information for future communications interpersonal and team skills and of course meetings to tie all of that
+together project communications project management plan updates project documents updates and organizational
+process assets updates are all part of the outputs as we manage Communications
+on our project implementing the risk responses we would need to look at the project management plan so our risk
+management plan or our risk management process project documents Lessons Learned risks and risk reports that we
+might need as we're implementing those risk responses and organizational process assets for any existing
+templates for managing risk responses expert judgment influencing and data
+from the project management information system are all tools that we can use change requests for any changes that
+come about as we Implement those risk responses and project documents updates so the issues log for issues risk
+register and the risk report as we send that out executing a project we're going to conduct the procurements for any
+third-party vendor we'll need our procurement management plan as part of our project management plan project
+documents project document procurement documentation so that could be our uh
+proposals or request for proposal our statement of work source selection criteria all of those things seller
+proposals We Gather them back from the sellers and then we can make a decision on who to proceed with and EFS and opas
+tools and techniques we're going to need our expert judgment from the right people within the organization
+advertising so can we get more sellers uh to give us requests for information
+or requests for proposal bit conferences can we get everyone on the same page at
+the same time data analysis and interpersonal and team skills the outputs that we're looking for are the
+selected sellers themselves any agreements that we have or will need to make change requests if we're changing
+the V or the timing project management plan updates project documents updates and organizational process assets
+updates right at the very end of executing a project we're managing stakeholder engagement so we'll need our
+stakeholder engagement plan project documents EFS and opas tools and
+techniques include expert judgment communication skills to ensure that
+we're engaging in the right way interpersonal and team skills ground rules within our Pro project and
+meetings as always change requests if we need to change things uh in the way that
+we manage with our stakeholders project management plan updates and project documents updates are all part of the
+outputs for managing stakeholder engagement and now we can start moving on to monitoring and controlling so now
+we're just controlling the project work before we finally close it off so the inputs that we're going to need are our
+project management plan as always different aspects project documents Project work per performance information
+that we've gathered as our project moves along and to see if we're on track or off track agreements Enterprise
+environmental factors and organizational process assets tools and techniques we're going to need are expert judgment
+from the right people data analysis decision making and meetings to tie it
+all together outputs work performance reports so we turn that information into
+reports that go to Executives or stakeholders uh in in our project change
+requests project management plan updates and project documents updates so for any
+issues or cost forecasts that we need to be updating we also want to perform integrated change control which is our
+Change Control process we're going to need our project management plan project documents work performance reports
+change requests EFS and opas tools and techniques we're going to need surprise
+surprise expert judgment Change Control tools analysis decision making and
+meetings outputs that we're going to want are the approved change requests themselves project management plan
+updates and project documents updates so the change log we can update with the outputs of those change
+requests also part of monitoring and controlling is validating that scope if you remember that's with our project
+sponsor or the customer whoever is receiving the scope and the completed deliverable we will need our project
+management plan project documents the verified deliverables that means they've been verified with our quality assurance
+process work performance data about our project and that includes the quality process data inspections so we've
+inspected the product and and we're happy with it decision- making the outputs we have here once it's been
+signed off are our accepted deliverables the work performance information change
+requests if we have any defects that need to go back and be worked on again project document update
+we want to control scope as we're going along for any changes and of course we're going to need our project
+management plan project documents work performance data from all of our project work and organizational process assets
+the tools and techniques we're going to need are data analysis for Trend or or
+variance analysis and the outputs will include that work performance information remember the data turns into
+information and that goes into reports so that's how it goes there change
+requests for any changes project management plan updates if we need to update our scope baseline or the scope
+management plan and project documents updates for any Lessons Learned and of course our requirements traceability
+Matrix controlling the schedule as that goes along if there are any changes for
+Change Control where the inputs are the project management plan for the schedule management plan and our process project
+documents work performance data and opas to tools and techniques include data
+analysis the critical path method if that changes or we need to adjust our schedule the project management
+information system is where we get all of our project information from uh resource optimization if we need to
+change or Shuffle resources around to get the best outcome leads and lags for bringing things forward or moving them
+back and schedule compression which is fast tracking or schedule crashing and
+throwing resources and money at at the schedule to make it go faster work performance information is uh what comes
+out of this schedule forecasts so we'll see if things are going on track change requests if we need to make a change
+project management plan updates to our schedule baseline or cost Baseline and project documents updates controlling
+costs is another thing that we're going to need to do and of course the inputs to this will include our project
+management plan and project documents as always Project funding requirements that we had said in our plan the work
+performance data for how we're tracking so we'll we'll compare these two things together to see if we need to make a
+change organizational process assets as well for any templates expert judgment
+for the people in the organization that we need to talk to about controlling costs data analysis two complete
+performance Index this is part of our variance analysis and earned value management which we go into much more
+detail in in the full course for project management project management information system where we gather all
+of our project information work performance information is an output cost forecasts is an output change
+requests can be an output updating our project management plan and project documents can also be an output of that
+particular process controlling the quality this is where we've gone through quality process and maybe there's uh we
+need to keep that quality under control so how do we do that project management plan will need as an input project
+documents approved test cases so we're running different test cases uh to see
+if the quality is there and it can be approved deliverables so we'll need those deliverables to test the work
+performance data EFS and opas tools and techniques include data Gathering and
+hey we haven't got expert judgment in here which is amazing so I think that's the first one data analysis inspection
+so we're inspecting those deliverables testing and product evaluations
+evaluating the product data representation so as we get the information we want to show it in a way
+that our stakeholders will understand maybe a histogram maybe scatter diagrams
+and meetings to uh usually to Showcase that information if we need to or get decisions quality control measurements
+uh so that's the measurements what we were aiming for with quality is it 90% pass rate or whatever that is verified
+deliverables so now we're verifying them so that the project sponsor can validate
+them and approve them sign off on those deliverables like we saw before work performance information change requests
+project management updates and project documents updates are all the outputs for controlling quality controlling our
+resources and keeping that under control the inputs can you guess project management plan project documents work
+performance data from our project uh to see if we're on track or off track any agreements that we've made with the
+resources and and gaining those resources from the business organiz ational process assets for any templates
+and ways of work uh tools and techniques that we're going to use are data analysis so cost benefit analysis for
+example uh Trend analysis performance reviews on our people problem solving uh
+interpersonal and team skills we might need to negotiate and influence to get the right resources project management
+information system is where all of our project information comes from and goes into work performance information is an
+output so how are our resources performing requests if we are off track
+project management plan updates and project documents updates can all be an output of controlling resources
+monitoring Communications is part of monitoring and controlling a project and the inputs can you guess project
+management plan exactly project documents work performance data for how our project is tracking EFS and opas
+expert judgment is something that we'll need as always project management information system system to get the information for how our project is
+tracking data representation interpersonal and team skills and meetings again meetings one of those
+things they are everywhere in our tools and techniques the outputs we want same as always when we're controlling a
+project we might have change requests work performance information that uh that we can showcase to other people in
+reports and project management plan updates and projected documents updates for issues risks stakeholder changes
+now we want to monitor the risks on our project and keep them under control if we can the inputs will be our risk
+management plan so our project management plan project documents for any risk registers or risk reports work
+performance data for how we're traveling and work performance reports for previous reports that we've sent out to
+our stakeholders data analysis Audits and meetings are all ways that we can
+monitor those risks uh and make sure that they are kept under control Ro and
+where the outputs that we have are the work performance information so turning that data into information that we can
+use uh to make a decision change requests project management plan updates project document updates and
+organizational process assets updates now we want to control procurements when
+we're controlling and monitoring our project can you guess we're going to need our procurement management plan as
+an input for our project management plan project documents agreements uh for any
+procurements procurement documentation which is our statement of work any requests for proposals sellers that
+we've got uh the the the vendor selection criteria approved change requests as we go along work performance
+data EFS and opas tools and techniques surprise surprise it's expert judgment
+claims Administration is if uh the vender is doing something and we don't like it or we don't agree that it's
+correct and but they don't agree that it's wrong then it will go to a claim uh
+data analysis inspection and audits because we're going to need to inspect and audit the things that the vendor does and make sure that it's correct the
+outputs will be closing that procurement the work performance information to see if it was on track and what they
+delivered procurement documentation updates change requests if it was off track project management plan updates
+project documents updates and organizational process assets updates and monitoring stakeholder
+engagement is still part of monitoring and controlling a project so our stakeholder engagement plan project
+documents work performance data Enterprise environmental factors and organizational process assets as always
+and data analysis will be a tool and technique decisionmaking data representation to represent the data on
+our stakeholders so stakeholder engagement assessment Matrix communication skills for feedback or
+presentations interpersonal and team skills meetings with our stakeholders outputs for monitoring stakeholder
+engagement will be our work performance information change requests project management plan updates and project
+documents updates and lastly you made it closing that project or closing that project phase how do we do this we need
+our project Charter so what did we agree to at the very beginning did we meet what we agreed to the project management
+plan project documents so all of these basis of estimates the Assumption logs did we meet what we said we were going
+to do the accepted deliverables themselves the business documents any uh future agreements procurement
+documentation for closed procurements and opas for any uh ways of working
+expert judgment data analysis and meetings will help us in our tools and techniques for closing a pro project or
+phase and the outputs will be project documents updates the lessons learned the final service or result or
+transition and so that's the end of our project or phase the final report to
+just let everyone know how it went and the outcomes and organizational process assets updates for any things that need
+to go back into the business and that is all of those processes and the Really nitty-gritty information and detail for
+those particular process groups in the practice guide I hope you've enjoyed it's been a wonderful Journey I'll see
+you in the next video bye for now

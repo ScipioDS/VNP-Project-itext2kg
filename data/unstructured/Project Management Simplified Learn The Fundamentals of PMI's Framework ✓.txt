@@ -1,0 +1,1143 @@
+I am really excited to finally share this
+video with you.
+It took me quite a while to get everything
+right.
+So, you may be confused seeing a 1 hour video,
+with a title Simplified in it.
+Don’t be, just to set your expectations
+clearly this video has a lot of substance
+in it.
+It’s not one of those cooking under 3 minutes
+videos.
+I am going to cover pretty much all the aspects
+of project management, be it project life
+cycle, process groups, knowledge areas, WBS,
+scheduling, cost.
+So, it’s basically a 10 hour course condensed
+into 1.
+So, my mission with this mini-course is to
+make project management very easy to understand
+for you.
+Essentially, project management is fun but
+more importantly it is very easy.
+It’s not a profession on its own.
+It’s not like accounting, auditing, or even
+consulting.
+Project Management is a complementary discipline
+that helps you run your projects very easily.
+As simple as that.
+And the best part is pretty much all professionals
+be it an accountant or a chemist can benefit
+from it.
+So, who is this video for?
+This video is for you if you want to learn
+how to manage your projects at work.
+So, it’s applicable to every single professional
+I can think of.
+I have never seen any professional in my 10
+year management consulting career who hasn’t
+run a project.
+It just so happens that sometimes they don’t
+know they were managing projects.
+But they were projects indeed.
+So, if you are looking for a simple enough
+framework to understand project management
+and implement at work, then you are on the
+right place.
+By the end of this video, I am confident that
+you’ll be able to add Project Management
+as a skill in your resume.
+Also, this video is for you if you are preparing
+for your PMP exam, Once you finish this mini-course,
+the PMBOK guide will be a lot easier to understand.
+See, the PMBOK guide is over 500 pages long.
+It’s a very long book and quite boring I
+must say.
+Obviously, I can’t share everything in this
+short video that exist in PMBOK guide.
+But if you watch this video without skipping,
+the PMBOK guide will be so easy to follow
+for you.
+Because, it’s all about understanding the
+fundamentals.
+Once you understand the fundamentals, everything
+else just becomes very easy to follow.
+When I took my PMP exam, now around 6 years
+ago, I almost aced it.
+I scored one of the highest points at that
+time.
+And the only reason why I scored so high was
+not because I spent 100s of hours studying,
+on the contrary, I just understood the fundamentals.
+And once you understand the building blocks,
+everything else just becomes so easy to follow.
+So, I suggest you watch the entire video without
+skipping, but if you are interested in learning
+certain elements only, then you can look at
+the description box for the index of the video.
+Let’s get started.
+What is even a project?
+It definitely has a sexy tone to it right?
+Project…
+I just love the way it sounds.
+I wonder how cool it must sound in French.
+Proje…
+Well, project is a temporary endeavor to create
+a unique solution.
+Yeah that’s operations.
+No
+Well, the difference between a project and
+operations is fairly simple.
+A project ends.
+So, it’s temporary.
+You implement your project, you close it,
+you create a unique product/service/ or whatever
+outcome you wanted then you are done.
+Whereas in operations, it’s on-going and
+repetitive.
+You may have also heard about the terms program
+and portfolio.
+Let me just quickly explain them here.
+Program is multiple projects put together.
+Combined.
+And Portfolio is similarly.
+Multiple programs put together.
+So, it’s project, program, portfolio.
+Now before I go further, and dive deep.
+You need to understand something crucial.
+To run any project, you need 2 methodologies.
+The first one is a project life cycle and
+the second one is project management process.
+Most people confuse these 2.
+And if these are not clear, you can kiss the
+PMP certification goodbye.
+It’s absolutely amazing how many content
+creators in YouTube confuse these two.
+They are not interchangeable.
+You cannot afford to confuse a project life
+cycle with a project management process.
+Don’t worry I am going to make it very simple
+for you.
+Let’s start with Project Life Cycle.
+Project Life Cycle is unique to a project,
+to an industry, to your needs.
+It’s highly customizable.
+Think of it like this; a human development
+is a project.
+So, your life cycle is;
+1) Conceiving
+2) Birth
+3) Childhood
+4) Teenage hood.
+Teenage hood.
+Is that a word?
+Teenaging?
+5) Adulthood
+6) And death
+Easy stuff right?
+So, now if it was an IT project.
+I am not an IT but it would like something
+like this;
+High level design
+Detailed Design
+Coding
+Testing
+Installation
+And Turnover
+This is project life cycle.
+The term cycle is a bit confusing here.
+Because, after you die, you don’t get to
+be conceived again and be born again.
+I think.
+But who knows.
+Or once you hand over the product to the client,
+you don’t get to design it again.
+So, it’s not actually a cycle.
+It’s just a confusing term they use.
+It’s sequential.
+It’s a sequential steps of various phases
+of a project.
+And these phases are unique to your own project,
+and your needs.
+A project life cycle may have 1 phase or multiple
+phases like the examples I gave earlier.
+There is no single way to define the ideal
+structure for a project.
+For example, one company may treat a feasibility
+study as first phase of a project, another
+may treat it as a third phase, or another
+may not even include it.
+So, it’s custom made.
+I know I said multiple times, custom made,
+custom made,,, but you’ll soon understand
+why I had to repeat it multiple times.
+Just be patient.
+Ok, now let’s talk about the 2nd element
+that you need to run any project.
+And that’s the Project Management Process,
+your process groups.
+See, if you are following PMI’s Project
+Management Body of Knowledge, then your process
+groups aren’t quite customizable.
+The processes inside the group are, but not
+the process groups themselves.
+You can’t change their order.
+So, we have 5 process groups to learn here.
+We have Initiation, planning, executing, monitoring
+and controlling, and closing.
+These are kind of set in stone.
+You don’t play around with them that much.
+Now, here is where all the confusion arises.
+For those of you, who are interested in taking
+a PMP test, I will now tell you the single
+biggest reason why most test takers fail.
+And it’s all because of confusing this,
+this what I am about to share.
+It’s so confusing that even most of the
+content creators, most of the videos here
+in YouTube or the blog posts, or the books
+don’t understand or explain it well enough.
+Remember how we talked about the fact that
+Project Life Cycle is highly customizable.
+Now, what we do in real life is, for small
+projects we simplify things.
+Instead of attaching process groups to every
+single phase of the project life cycle, like,
+Conceiving – initiation, planning, execution,
+MandC, closing
+Birth – initiation, planning, execution,
+MandC, closing
+Etc
+Instead, in real life, we just attach the
+process groups to a single phase project life
+cycle.
+This makes things really easy to run the project.
+Less complication.
+I mean why make things more complicated than
+they should be right.
+There is so much paper work involved.
+But here is the confusing part, this doesn’t
+mean that all of a sudden process groups became
+project life cycle.
+Your project life cycle isn’t initiation,
+planning, execution, MandC, and closing.
+If you don’t get this right, I guarantee
+you that you will fail the exam.
+Now we are going to talk about the process
+groups, and while I am explaining that, I
+will also run a project for you to demonstrate
+how it works in real life.
+But before I get there, I want to share something
+quickly with you.
+It’s about PMP, If you are looking to get
+a PMP degree so you can advance in your career
+and get better jobs, don’t.
+Don’t do that.
+It won’t really help you as much as you
+think.
+Learn project management, it’s awesome.
+Everybody should learn project management.
+But don’t you think that by getting a piece
+of paper, you’ll get amazing jobs, That’s
+not going to happen.
+It may even be detrimental.
+Because, PMI’s project management is just
+a framework not a methodology, and even the
+terminology they use is very different than
+what most companies use internally.
+So, Instead of spending 100s of hours and
+a lot of money on a certificate that you won’t
+even use, I suggest you check out my LIG program
+and let that program show you how you can
+achieve the career you deserve.
+It sounded a bit like an advertisement break
+but it’s not.
+I am very passionate about my LIG program
+and the results are overwhelmingly positive.
+Go to The Career Mastery.com and you’ll
+see the link to register to LIG.
+Because, as I said most multinational firms
+have their in-house methodology to follow.
+So, you’ll have to unlearn a lot of things
+to learn their way.
+For example, my employer PwC Consulting has
+a complex methodology for every single work
+we deliver.
+It’s the best in the world and miles better
+than PMI’s framework or Prince 2 methodology.
+So, your future employer will have its own
+methodology as well.
+But still, learn the fundamentals, learn everything
+I’ll share in this video, PROJECT MANAGEMENT
+IS AWESOME.
+It’s an incredible practice but a certificate
+is debatable when you consider the investment
+vs reward equation.
+You want to a better job? that’s not the
+way to go.
+You just don’t know some of the hidden strategies
+to get better jobs, that’s pretty much it.
+And one final point on this, I have a pretty
+amazing bonus and guarantee.
+If you don’t get the results or the jobs
+you want within 30 days, I will personally
+work with you free of charge to get you to
+where you need to be.
+Ok, sorry for the break.
+I felt compelled to share that.
+Let’s start with the first process group;
+and that’s initiation.
+Let’s do it.
+To make things very grounded, I will use the
+construction of this boat as an example explaining
+the process groups.
+I could give you examples from my work history.
+Obviously, as a manager at PwC Consulting,
+PricewaterhouseCoopers, I ran 100s of projects.
+But it would create a few problems.
+1) I am under strict client confidentiality
+agreements and 2 we don’t use PMI’s framework.
+We had our own internal methodology to follow.
+So, I think using this boat.
+Designing and manufacturing this boat as an
+example will make it fun but at the same time
+simple.
+Now, this applies to project management as
+well.
+For initiation process group, you have 2 important
+processes;
+First process is that you develop a project
+charter.
+And 2nd process is you identify stakeholders.
+Let’s start with Project Charter
+Project charter is a fairly simple document
+outlining a few things.
+It’s like mini project plan.
+Very simple one though.
+Essentially, you are finding an answer to;
+why you are doing what you are doing.
+So, in my case, if I have to develop a project
+charter for building this boat, it would include
+my objectives, scope, rough idea for the cost
+and time, key stakeholders and milestones.
+That’s pretty much it.
+At the initation stage, you don’t want the
+document to be very detailed.
+We need the details later for planning stage.
+Speaking of later stages, can you do me a
+favor, if you liked the video so far, can
+you please subscribe to my channel.
+Because if you don’t YouTube will not show
+my future videos to you.
+So, in your case, your project charter may
+be as simple as explaining why you consider
+the expansion to foreign markets, why you
+are considering building that new factory.
+I’ll repeat once more.
+This is not the time to go into huge details.
+Talk about the business case and maybe high
+level project objectives, major deliverables,
+and roles and responsibilities.
+But I’d like to emphasize something here.
+If your project isn’t a very large one,
+try to stay away from having too many details
+in it.
+Then you would ask, why do it?
+I mean if it’s not detailed nor comprehensive,
+it doesn’t have much information.
+Why even waste time to prepare it?
+And if you asked that, it would be a very
+smart question.
+The reason we do that is to have a buy-in.
+Support from the leadership to spend more
+time and maybe money to properly plan it.
+I mean, as a principle, are you – MY DEAR
+PROJECT SPONSOR- ARE YOU fine with me exploring
+this project a bit more?
+It’s a checkpoint.
+Your project sponsor may not want this project
+at all in the first place.
+If they say no, you don’t start planning.
+And my friends, planning is no easy task.
+So, it’s a great opportunity for the senior
+leadership to kill the project early on before
+you spend so much time planning a project
+that will just end up being a waste.
+Maybe they don’t want to expand into a new
+market, maybe they don’t want to have that
+new factory.
+So, they kill it off early on.
+But I want to open a deep note here.
+And contradict myself a little.
+What you need to do, or how much detail you
+want to include for each process group including
+initiation heavily depends on your project
+needs, project scale, and industry.
+So, if a project is as say creating International
+Space Station (ISS) obviously your initiation
+will include a lot more details.
+It’ll be almost like high-level planning.
+And the reason for that is because planning
+such a project, of International Space Station
+is over 10 billion dollars.
+Just the planning.
+So, it will require you to present a lot more
+information to your project sponsor to get
+an approval for a “go-ahead”.
+Ok, I hope so far so good.
+Let’s move on.
+The 2nd process for initiation process group
+is Stakeholder Identification.
+At this stage, you will again keep it very
+simple.
+You will not categorize all the stakeholders
+based on their influence.
+You’ll do that later in planning.
+Now, as I mentioned before, we just want to
+know if we should proceed or not.
+It’s a checkpoint.
+So, all you do is, create an excel list and
+list down various stakeholders that you will
+engage with.
+The fancy name for this is Stakeholder Register.
+In my case, my stakeholders will be;
+My wife.
+She’ll be my sponsor.
+Then my neighbors because I’ll do a lot
+of hammering, and drilling.
+So, I’ll make a lot of noise.
+Therefore, I need to include them as my stakeholders.
+For most projects, your primary stakeholder
+is your project sponsor.
+Who is your sponsor?
+Who gives you the go or no-go?
+Who is the project manager?
+Who are going to be part of the project team?
+Who are going to be part of project management
+team?
+Ok, now we have the project charter and project
+stakeholder register we can move on to planning.
+Of course provided that you secure the approvals.
+Now, we have initiated the project, we got
+our approvals, and it’s time to plan it.
+Plan the project.
+Planning is a lot more detailed and comprehensive
+than initiation.
+We are going to need to talk about some knowledge
+areas.
+So, I suggest you take a break now.
+Pause the video, go get a cup of coffee, refresh
+yourself and come back when you are ready.
+Or you can just bookmark this video, and watch
+it when you are on top of your focus.
+Ok?
+Let’s start.
+So, with planning, we are looking to find
+answers to 3 main questions;
+What are we going to do?
+How are we going to do it?
+How to know when the project is done?
+At the end of the planning process, you’ll
+end up with a comprehensive Project Plan.
+And this project plan will include a few items;
+So, it’ll include; requirements, and scope.
+Work Breakdown Structure (or as we call it
+WBS)
+We’ll have schedule, some form of a timelines,
+Then, We’ll have cost and budget
+And Quality.
+For those PMP takers, let me put a disclaimer
+here.
+PMBOK guide includes more processes with their
+inputs and outputs.
+I am simplifying things for you here.
+Let me repeat, if you plan on taking the test
+based on only what I share with you here,
+you’ll fail.
+I am simplifying everything for you so you
+can grasp the fundamentals.
+Once you understand these fundamentals, everything
+else will be so easy for you.
+Let’s get going with; requirements,
+Collecting requirements is all about “understanding
+what stakeholders want”.
+I mean what do you really want?
+If you remember, we did this with the project
+charter, right?
+So, we’ll just take the project charter
+and give it more details and specifications.
+what we wrote in project charter, and give
+it more details.
+See, in my boat building project this is super
+easy as I only have a few stakeholders that
+matter.
+Me and my wife.
+But if this was a very large project, then
+you’d have to have a meeting with those
+primary stakeholders and make sure you include
+their requirements in the plan.
+How do you know who the stakeholders are?
+Well, remember the stakeholder registry?
+See, This isn’t a very easy task.
+I mean collecting requirements is the easiest
+part.
+But the difficult part is maintaining your
+sanity.
+Because, the moment you start gathering requirements,
+then everybody is going to want to have the
+best of everything without consideration for
+budget, quality, or schedule.
+And they’ll have contradicting requirements.
+There’ll be clashes.
+And especially at this stage, you don’t
+even know the budget or quality or schedule
+yet.
+So, you need to somehow gather the requirements
+based on your assumptions.
+And that’s no easy task.
+If my wife comes up to me and says, hey let’s
+buy you a new car!
+It’s time.
+She asks What car do you want?
+The first car I’ll say, I want Porsche 911
+GT3.
+I won’t consider the family budget, or maintenance
+expenses.
+I’ll just say what I want.
+That’s how it is in project management as
+well.
+When you ask what your stakeholders want,
+they’ll shoot for the moon,.
+So, as a project manager, you have to keep
+things on the leash and explain people that
+there are always trade-offs in life.
+Just a small tip here; when you are collecting
+requirements, there are so many methods available
+to you; you can do 1 on 1 interviews, you
+can apply Delphi technique, you can do nominal
+group technique or other methods.
+If you ask me, and if you can, just stick
+to a good ol’ meeting.
+Get everyone in a room or on a teleconference
+and gather the requirements collectively.
+If you do interviews 1 by 1, then you’ll
+have a lot of contradicting requirements at
+your hand.
+Get everyone together, and let them argue
+let them fight, but the end you’ll have
+your requirements set in stone.
+Next process is Defining the Scope
+Defining the scope is all about what is and
+what is not included in the project.
+Just like the term; scope…
+You can only see limited things looking through
+a scope.
+To do that, we need a few documents, we need
+the Project Charter
+The one we did during initiation.
+Then we need the requirements document the
+one we just finished and any other information
+we can collect about risks, assumptions, and
+constraints to define the scope.
+Now, defining the scope is one of the most
+important processes.
+Because what happens in reality is, weak project
+managers, include everything in the project
+requirements document and also in the project
+scope.
+So, as a result your project plan just becomes
+an impossible plan to execute.
+It’s actually their fault.
+If they stood up to project stakeholders during
+planning, the execution would go very smooth.
+So, when you are doing your scope statement,
+please bear in mind that what you put in there
+you’ll be responsible to execute.
+Try not to go overboard.
+Your project scope statement may include product
+scope, project scope, your deliverables, product
+acceptance criteria, what is not part of the
+project, constraints and assumptions.
+The more specific you get the better it is.
+You shouldn’t include anything that is open
+to interpretation.
+Now, we are done with our project scope, let
+me introduce you to Scope Baseline.
+What is this now?
+Scope Baseline.
+So, scope baseline is composed of 3 things;
+1) Scope statement
+2) Then, we need Work Break Down Structure.
+I’ll refer to it as WBS from now on.
+3) And finally we need WBS Dictionary.
+Don’t worry, these are very simple stuff.
+And in fact, WBS is really fun to do.
+Ok, since we already have the scope statement,
+let’s move on with WBS then.
+Now, I want to stop you for a second and make
+an announcement here.
+You can’t afford to misunderstand WBS.
+Work Breakdown Structure is almost the core
+of project management.
+Whatever project methodology like Prince 2
+or framework like PMI’s you use, you’ll
+always have some form of Work Breakdown structure.
+it’s important, REALLY really important.
+You can’t afford to misunderstand this part.
+So, I suggest you take another break now.
+Go get some fresh air and come back when you
+are ready.
+Good.
+So, before I start creating a WBS for the
+boat project, let me tell you what it is;
+The WBS breaks the project into smaller and
+more manageable pieces.
+It’s a top-down effort.
+You basically just decompose your deliverables.
+Then we call them Work Packages.
+Now, I want to highlight one more important
+thing here.
+If you are strictly following PMI’s framework,
+then work Packages have to be “things”.
+They can’t be actions.
+They need to be deliverables, they can be
+documents, or a building, completed deliverables.
+things…
+You know…
+Completed things…
+Not actions.
+In practice though, this isn’t usually how
+things are done.
+Most people use a hybrid model, their work
+breakdown structure contains, deliverables
+but also even tasks.
+So, if you are not taking the test, then just
+use whatever you want.
+Whatever makes you feel comfortable and whatever
+allows you to see the project as a whole.
+How deep you go in levels is all about an
+answer to the following question?
+Can you confidently estimate the cost and
+time requirements of that work package?
+Can you say it’ll take 1 week or 1,000 dollars?
+Can you answer that questions?
+If you can’t then you need to break it down
+further to activity level until you can make
+some cost and time assumptions.
+For example, when I look at this boat, I can’t
+say how long it will take to finish it.
+But I can estimate how long it will take to
+laminate it, or do the wood work, etc.
+So, go as deep as you need to go.
+So, let’s do it.
+Let’s do the WBS,.
+You start with the project name as level 1,
+and then you segment your project into various
+work components.
+So, in my case, my segments are;
+Design, Manufacturing, Electronics, Rigging
+(rigging is the mast, sails, lines, the whole
+thing), and Testing,
+Then we need to put labels on them.
+So these can be 1.1 for design, 1.2 for manufacturing,
+1.3 for Electronics and so on and so forth.
+Now this is still too high level right?
+When I look at this graph, can I estimate
+the cost or the schedule?
+Can I say for example, how much it’ll cost
+me to design the project?
+No.
+This means we need to break it down further.
+Now for project this small, I don’t need
+sub segments, but keep in mind that in your
+project you may need to put in sub segments
+to break it down more clearly.
+So, let me start attaching my work packages;
+Now, for design;
+My work packages are;
+- Find actual IMOCA 60 design.
+But Deniz, you said no activities, it had
+to be things.
+Ok, you are right, let’s rename it; “Acquired
+IMOCA 60 design”.
+Good?
+- Design adjusted for scaling down.
+You can’t just take a design for a 20 metre
+boat and then manufacture a 1.5 metre version.
+It won’t sail well.
+So, I need to increase the volume.
+- Final design completed.
+This is actually where I actually design it
+or modify the design I have.
+There is actually one more thing here.
+I actually have to know how to design.
+I had to read a few books here.
+So, for manufacturing; my work packages are;
+First work package is decide on materials
+2nd work package procure them
+3rd work package is I need frames.
+Then, I’ll create sub segments here.
+- Framing the hull
+- And framing the deck
+Then another work package, is that I need
+to laminate.
+Again 2 sub segments here;
+Laminate the hull and laminate the deck
+Then another work package here is, deck assembly,
+I need to assemble the hull and deck together.
+The final work package as part of manufacturing
+is Cosmetics;
+Cosmetics include sanding and painting.
+Now, let’s move on to Electronics;
+First work package is; decide on components
+and procure them.
+I’d like to merge them under one work package
+as I can easily estimate the cost and time
+investment at this level.
+Second work package is; assembly.
+Next move on to next segment, rigging.
+Rigging is this whole part, the mast, the
+boom, sails; mainsail and jib or genoa, then
+shrouds, mainsheet, the battens, the whole
+thing.
+For this segment, my work packages are;
+1) Decide and procure items on the material
+list.
+Again, because I can estimate easily, I don’t
+need to break it down further.
+2) Electronics installed
+Next segment is Rigging.
+Now, for rigging.
+I need to decide on materials and procure
+them again.
+Then obviously I need to install the items.
+Now for testing;
+I need to test the electronics, the rigging,
+and I need to have a pool trial to make sure
+it floats and no water goes inside, and if
+all is fine, then I’ll have the sea trials.
+I just want to repeat one more thing here
+OK, now we finished creating our WBS.
+I want to know talk about the importance of
+this document once more
+Everything happens after WBS in our planning
+process group is directly related to WBS.
+For example, project costs, schedule, risks,
+everything is calculated by using this chart.
+We do not calculate the costs or the schedule
+for a project as a whole.
+We do that at work package level using the
+WBS.
+Before we move on to other processes, I want
+to remind you of something I mentioned earlier.
+Do you remember Scope Baseline?
+Hmm?
+Do you remember what it was consisted of?
+Let me just remind you once more;
+1.
+It’s project scope statement
+2.
+WBS
+3.
+And WBS Dictionary
+We covered the first 2, and it’s time for
+the WBS dictionary.
+Once we have it, then our project scope baseline
+is completed.
+Ok, what’s this dictionary thingy.
+Imagine this, if we don’t define these work
+packages properly, then we are prone to a
+scope creep.
+What is scope creep?
+Scope creep is basically, scope extending
+its boundaries.
+Remember the Porsche 911 GT3 that I wanted
+from my wife?
+So, that Porsche 911 GT3 becomes GT3 RS – basically
+a higher model.
+So, if you don’t control and keep the leash
+scope keeps on expanding.
+Stakeholders will always push you to do more
+by stretching your scope.
+So, as a project manager, you have to prevent
+it.
+Especially in the planning stage, because,
+once the planning is over, you have to execute
+it.
+In simple terms, WBS dictionary is what puts
+a definition to every single work package,
+as a result, scope can’t be stretched.
+Now, I am going to talk about Time management,
+and Cost management.
+For those of you who are preparing for a PMP
+test, you’ll know that there are few more
+knowledge areas including human resources,
+communications, risk management, quality,
+and procurement.
+I am not going to cover them here for a few
+reasons.
+1) I don’t think they need explanation.
+They are fairly easy to understand once you
+read the PMBOK.
+And 2) They are very intuitive.
+You don’t need me to teach you about procurement
+or human resources.
+The only exception to this is Risk Management.
+That’s not very easy.
+But I won’t talk about risk management here
+because I will probably have a dedicated video
+on it.
+I don’t want to spend an hour running risk
+management simulations here.
+Plus, for most of you running small projects
+you don’t factor in risk management anyways.
+I mean you are aware of the risks, but you
+don’t go out of your way to spend a week
+on preparing risk registers.
+So, I’ll focus on – in my opinion – more
+essential ones here;
+Alright, let’s continue, let’s continue
+with time management.
+Now we need to go back to our WBS.
+And start giving estimates for how long a
+particular work package will take.
+Here’s an important point for you.
+If you can’t confidently estimate how long
+a work package will take to complete, then
+you should break down your WBS further to
+activity level.
+This part is fairly easy and fun to do.
+You just need to sit down with your project
+team and start giving your assumptions.
+Once you are done estimating these, the other
+fun part starts, and that’s putting them
+in a sequence.
+Now, for PMP takers, you need to resort to
+PMBOK guide for boring details of Finish to
+start, start to finish, etc.
+In reality, in practice, we do it with help
+from MS Projects.
+It makes things very easy to layout.
+It also gives us the critical path which is
+one of the things you need.
+For everyone else who are managing relatively
+smaller projects, you don’t even need MS
+Projects software.
+All you need at this stage is a Gantt Chart.
+Gantt chart is awesome.
+It makes things so simple.
+Gantt chart is a very easy way to list activities
+or work packages in a suitable time scale.
+Each work package or activity is represented
+by a bar and the position and length of the
+bar shows us the start date, duration, and
+end date of the activity.
+You can use MS Projects, MS Excel, or even
+manually on a PowerPoint if you want to.
+It really depends on how complex your project
+is.
+Our project here isn’t particularly a complex
+one, so I don’t need to use MS Projects
+for it.
+There is a high likelihood that your project
+will also not be very complex, so let’s
+just do it manually in PowerPoint.
+If you are still with me by this point, please
+consider to subscribe to my channel.
+Yeah please do that.
+Shooting these videos aren’t easy, it’s
+very time consuming.
+So if you subscribe and hit that bell icon
+you’ll be notified when I release new videos.
+If you don’t then YouTube won’t show my
+future videos to you.
+Oh you can also download all the templates
+I used in this mini-course from the link down
+in the description box.
+You may need to register though.
+I am not sure.
+I haven’t figured it out how to do it yet.
+Sorry, I digress.
+If you subscribed already, let me now talk
+about 3 things very quickly that you’ll
+hear a lot.
+Fast tracking a project means performing more
+activities in parallel.
+So, you see more bars along the same vertical
+axis.
+The other term you hear a lot is called project
+crashing.
+Crashing in simple terms is shortening the
+durations of activities by adding more resources.
+For example, if 2 workers finish the work
+in 30 days, then how long does it take for
+4 workers to finish it?
+Obviously, 15.
+If you said 60, please go get some fresh air,
+wash your face, take a break and come back.
+You need a break.
+So, this is called project crashing.
+But it comes at a cost right.
+Cost of additional resources.
+Additional money.
+You’ve probably seen those huge towers being
+built in China in 30 days, right?
+Yeah that’s what they do.
+They crash the heck out of the project.
+That’s how they achieve such speed.
+Ok now we are done with this, let’s put
+our schedule plan in our master project plan
+and move on with costs.
+The next in line is; cost management.
+Now for this piece, we’ll take out our WBS
+again.
+But this time instead of giving durations,
+we’ll give our cost assumptions for each
+work package.
+So, we’ll do a bottom up estimating.
+We do a detailed cost estimating for each
+work package.
+This is essentially very similar to what we
+did for the schedule management.
+Once you have all the costs added up, the
+direct costs, indirect costs, variable or
+fixed costs, then you can create a budget.
+For those PMP takers, keep in mind that there
+are a few more steps for you.
+For example, you need your risk register and
+risk contingencies to be included in your
+budget.
+Not just that actually, you also need your
+management reserves.
+So the way it works is you roll up,
+Get your cost estimates for activities,
+then work packages,
+then you’ll have a rough idea of the project
+cost estimate.
+Once you have it, you include contingency
+estimates which comes from your risk studies,
+and that gives you your cost baseline.
+Then you include the management reserves and
+voila you have your cost budget.
+For 99% of us, we don’t really do that in
+practice.
+We roll up the cost of each work package,
+put a 20% contingency reserve and we are done.
+we are done with planning.
+I left out a few knowledge areas that you
+could include in your plan.
+For example, you can talk about your human
+resources plan, who should be part of your
+team, your communications plan, and other
+stuff.
+I just don’t want to get into them here
+as I believe they are fairly intuitive.
+The only exception is I guess risk management
+and that’s a tough one.
+But that’s for another video.
+Alright, so far we are done with Initiation,
+and Planning.
+It’s the fun part now.
+The Execution!
+Yaayy ?
+Now, we are going to execute this
+The purpose of the executing process is to
+complete work we defined in the project management
+plan and meet the project objectives.
+This is where we do the work.
+Your focus now is managing your team, following
+the processes, and managing information exchange
+as the project manager.
+Your job is essentially guiding the team to
+stick to the plan you created.
+If you have done a good job with planning,
+executing is the easiest part.
+Although it takes the longest, as much as
+10 times more time you spent on planning,
+it’s the easiest part.
+But if you haven’t done a good job with
+the plan, then the execution will be a nightmare.
+So, in execution, if you are not the one doing
+all the execution work, there are a few things
+you need to be doing constantly, for example;
+You need to constantly manage the expectations
+of all stakeholders.
+You need to protect your scope.
+Because you’ll quickly realize that stakeholders
+will want you to gold plate.
+Do you know what it is?
+Gold plating is in simple terms, making changes
+to a project that are outside of your scope.
+You know instead of getting grade B quality
+material as you agreed, your stakeholders
+now want you to get Grade A quality.
+Now, this is a problem because you didn’t
+factor that in your budget or time estimates.
+So, as a project manager you need to prevent
+scope creep.
+Protect your scope.
+Your scope is like your national flag.
+You protect it against all unnecessary change
+requests.
+You resist.
+You can evaluate it and put it in consideration
+if it’s really valid but don’t just take
+it as is and change the execution.
+For those PMP takers, please pay attention
+to how change is handled in execution.
+Ok, now this was execution.
+The next process group is called Monitoring
+and Controlling Process Group.
+Monitoring and controlling means measuring
+the performance of your project against the
+plan, managing your change requests, and making
+sure you are hitting your KPIs if you have
+included them in the plan.
+An important aspect here, monitoring and controlling
+starts with the execution process group.
+So, they run in parallel.
+So, you monitor and control when you are already
+executing it.
+It makes sense right?
+How can you monitor once you finish the execution.
+It’s common sense.
+So, what do you monitor and control then”?
+You monitor your scope, you make sure no scope
+creep happens, you monitor your schedule and
+forecast if you think there’ll be delays.
+This is particularly easy to see because you
+already have your project time plan project
+schedule, remember we even put it on Gantt
+chart
+, Then you monitor your costs, quality, risks,
+and procurement.
+Again this is fairly simple, for example you
+finished a particular work package, you can
+just always look back and verify if you were
+within the allowance.
+If you weren’t then you look for root causes,
+what happened?
+Why did we exceed the budget or the schedule?
+Then obviously you solve those problems so
+they won’t repeat.
+And you make sure you document everything.
+For PMP takers, please pay extra attention
+to Earned Value Calculations.
+It becomes particularly important in this
+stage.
+I want to quickly touch on earned value here.
+Earned value is Total Project Budget Multiplied
+by the % complete of the project.
+For example, you have budgeted 1 million dollars
+for the whole project.
+And you have finished 20% of it.
+So, your earned value is 200,000 dollars.
+Now, this is primarily used for construction
+and software projects, and an important concept
+by PMI.
+But in real life, it doesn’t hold much value
+other than few industries.
+And the reason is the value gained cannot
+always be assessed along the progression of
+the project.
+What does this even mean?
+It means; It’s not always a linear progression.
+Most of the time, actual value of a project
+goes like this . o, it’s not linear.
+It’s a power curve.
+But in reality, in real life, your growth
+is a power curve.
+because most projects show exponential growth
+instead of a linear one.
+And they get compounded results every month.
+And their calculation is a lot more difficult
+than a simple y=mx+b.
+To calculate it, you need growth/ decay formula
+And no project manager is going to run that
+every week.
+It’s very similar to how we calculate compound-interest.
+Ok, before I bore you to death, let’s move
+to Closing Process Group.
+Actually, no.
+I want to explain this A BIT MORE.
+The exponential growth to you.
+Because, I believe you’ll benefit from it.
+So, let’s take my YouTube channel for example.
+Let’s call this project, project 100,000
+subscribers.
+That’s what I love to achieve.
+At the moment, I have about 19,000 subscribers.
+Let’s say I get 500 subscribers per week
+with 20 videos, if I have 40 videos provided
+that I maintain the quality, I will not have
+1000 subscribers per week.
+It’ll probably be 2000 per week or a lot
+more.
+Because it gets compounded.
+Just like your money in your savings account.
+See, if you calculate your earned value based
+on your execution, I mean I am still executing
+1 video per week, but the output just became
+exponential.
+So, it grows at a rate greater than a linear
+curve.
+So, that’s how most projects are in real
+life.
+And if you still haven’t subscribed, please
+do subscribe…
+Alright, sorry I digressed a little bit there.
+So, the key takeaway is whatever your project
+is, don’t quit just because you don’t
+see the results now.
+They will come.
+And when they do, they will come like this
+Let’s do closing.
+Let’s close this project.
+Now, we finished the product.
+Is the project finished?
+I mean the product is finished.
+But the project?
+No, it’s not.
+There is still some work to be done.
+Not much but we still have to do certain things.
+Mostly boring admin work.
+So, what do we do now.
+Well, what you do is really customizable to
+the needs and complexity of your project.
+But in general, these are good starting points.
+1) One; We hand it over to the client if it’s
+a project you did for a client.
+You need to basically get a sign-off from
+the client.
+2) Two; Finish procurements.
+Meaning, you need to make the final payments
+and complete your cost records.
+3) Three; Gather your final lessons learned.
+This is basically documenting what went wrong
+and what did we learn from it.
+You probably can’t see it on the camera,
+but this boat isn’t perfect.
+The bow of the boat is actually not straight.
+It’s leaning towards the port side, left
+side.
+Yeah a few lessons learned here ?
+4) Four; You release resources, let your team
+members go back to their own teams.
+5) And five; finally…
+go celebrate…
+Thanks for being with me the past 1 hour.
+I hope you benefited from this video.
+And if you did, please share it with your
+friends and professional network in LinkedIn.
+And if you share it in LinkedIn, please feel
+free to send me an invitation to connect.
+I’d love to connect with you.
+And finally, as I mentioned earlier, if you
+are looking to make a big jump in your career
+and explore working for multinational companies,
+consider joining my LIG program.
+That’s where I share some of the advanced
+strategies to getting yourself employed by
+multinational firms.
+It delivers great results.
+See you next week,

@@ -1,0 +1,896 @@
+today I like to talk to you about the PM
+box 6th edition if you recall four years
+ago I did something very very similar to
+that for the PM box fifth edition so
+what I would do today it's I will start
+from the first process that you should
+do in your project up to the end and why
+I'm doing this one of the key reasons
+I'm doing this it's because if you look
+the PMO guide very thick six seven
+hundred pages the first reaction is wow
+it's it's a lot to learn it's it's a
+very strong body inside and it's it's
+not very easy to understand the peermark
+guide it's mostly a reference guide so
+what I would do here it's to read the
+PMBOK guide but in a different way and
+this is basically on part two of the
+guide because on the sixth edition of
+p.m. Bach we have 12 13 chapters on the
+first part the three first chapters are
+the general concepts what is a project
+what's project management second chapter
+is more about organizational structure
+how the structures change depending on
+how much leverage do you give to the
+projects the third chapter it's a new
+one talks about the project manager and mostly on the PMI talent triangle and
+discuss more about the competences of
+the project manager between chapter four
+up to chapter 13 we're talking about ten
+knowledge areas and then on part two is
+the standard the ansi standard of
+project management and this used to be
+chapter three on the previous version and this is the core this second part of
+what i'm talking now because most of the
+time when you read for example scope you
+read all process of scope but it's not
+the way you do projects
+because you do projects in a different way you do in a much more interconnected
+way and this is what I want you to teach
+you today how to do that the first thing
+you need to have is this piece of paper
+so this you can download on the link
+below so you can download this and you
+can download the processes then you put
+some blue or a tape here to use it as a
+reference so I will do this today to
+show you how a project is built so look
+here we have in a light grey just to
+help me to show you an out so to guide
+you through the process so the first
+thing we need to understand that it's every single project start on what we
+call initiating process so initiating
+process basically when you start a
+project it doesn't matter which kind of
+project you you're talking you start by
+developing the project charter project
+charter the best way to explain to you
+is birth certificate why I'm saying this
+because it's it's something that
+recognized that a project exists so here
+you give an own a name a project manager
+some basic conditions it's a one or two
+page document just to underline what is
+the intention and why this project exists in parallel to that you do a
+stakeholder process that is to identify
+stakeholders so let me explain this what
+is in stakeholder stakeholder is any
+person or entity that has any kind of
+interest in your project may be positive
+maybe negative so a supplier a client another
+area in your organization's they are all
+stakeholders and look one important
+point if you see here 4.1 minutes we are
+talking about the chapter four of p.m.
+balk first process chapter four is
+integration okay and this is thirteen
+point one 13 is stakeholder management
+so we do this almost together one very
+important point is that a lot of people
+do not understand this arrow that goes
+both ways why this because you don't do
+this first and then you do this you do
+this almost together and this arrow
+allows you to go back because when you
+identify some stake or maybe you need to revisit your project chartres and vice
+versa so to do that it's what you built
+the initiation in one very important
+point if you read the p.m. back from page 1 to
+the to the end you read for and then you
+read 5 6 7 8 9 10 11 12 and denry 13 so
+I'm telling you read 4.1 then go to
+thirteen point one and take a look
+because this is how things happen in reality so when you have the initiation
+you have your profit charting this very
+light slim document that just address
+what your project will do and then a
+list of who are my stakeholders this is
+what is the initiation of a project
+after initiation the initiation we need
+to do the planning and this is exactly
+to try to understand how we are planning
+to do our project so we will basically
+understand theses pieces that we need to
+have in place to make sure that this
+idea here will satisfy the interest of
+these stakeholders and will deliver what
+you want remember we we do not live and
+create projects to respect the flow the
+flow must reflect the reality of the
+work we do and basically to do that we
+started here by integration what do we
+need to do here we need to start the
+planning by integration and the
+integration is the second process of
+integration that is called develop the
+project management plan so let me explain to you integration integration
+only exists to be the glue that connect
+the order nine areas that's it
+integration exists to avoid that scope
+overrule risk risk overrule cost so the
+integration is to make sure that
+everything is balanced producing the
+benefit of the project and the results
+you want here so to develop the project
+plan then you need to do a lot of things
+and work in different areas the first
+one that you need to start working is
+the area of scope and you need to plan
+how you will manage the scope of your
+project look you will see many times
+here plan scope management plan schedule
+management and every time you see the
+word plan and management we are talking
+about the rule of the game so what is
+plan scope management
+you need to define here how do you plan
+to manage the scope of your project let's suppose that someone wants to add
+work to your project will you accept it
+not accept it it must be approve it what
+is the level of approval so this is the
+route I love to use an analogy imagine a
+football game a soccer game you have
+some rules for example there are 11
+players the goal is only when the ball
+crossed the line fully so you have some
+rules why because you cannot define the rules
+when you are is acute in the project
+writing need to agree on the rules and
+this are the rules and this may be a set
+of bullets maybe a small document or
+maybe something that your project office will create but it's something that
+delineate the rules of how you plan to
+manage the scope and then the second
+thing you need to do is to collect the
+requirements so now I need to understand
+what's the work I need to do and then I
+need to collect the requirements first
+what is the requirement requirement are things that I need to do to deliver what
+I want
+for example the requirements can be
+functional requirements for example I want and for example an electric door in
+my car this is a functional requirement
+what is a technical requirement its what
+is the size and the characteristics of
+this engine to support that door opening
+automatically and then you have the
+scope and the requirements of activities
+by the the engine install the engine
+test the engine so this is where you
+collect and most of the time you collect these requirements by talking to some of
+the stakeholders and trying to
+understand how you will build the way
+between where you are and where you want to be after collecting these
+requirements you must shape the scope of
+your project
+basically you need to combine these requirements functional technical and
+activities and in parts of the work and
+you define the scope basically you
+produce one one document I don't like
+the word document because it seems like
+bureaucracy but you produce something that reflects the scope of your project
+and we call this scope statement so the
+scope statement will define okay how do
+you want to approach your project in after that you will create the work
+breakdown structure or WBS remember the
+WPS is that it looks like an old chart
+where you split your project and you
+break your project into smaller much
+more manageable pieces of work I love
+this and I think that the WBS is the
+tool to manage the scope so this for
+process or things you need to do to
+deliver your work and this will be a
+piece of your project plan after you
+know what you want to do you need to
+understand how much time do you plan
+then you do a planned schedule
+management and this you will work on the
+schedule remember why spend some time
+explaining the scope because here is
+absolutely the same of plan scope
+management but here I'm concerned about
+schedule for example what I would do if
+some tests become late how I'm planning
+to calculate durations will I do
+analogy which kind of tool and planning
+to use how how precise do I need to be
+when I set an activity duration so these
+are basically the rules of the game when
+the game is talking about schedule in
+one point that you may notice for those who are from coming from the p.m. balk
+fifth edition it usually could be called
+time and now it's called schedule
+because we are talking about this time and how the times flow
+in your project after that you will
+define the activities very very
+important here here you create a WBS
+here you are defining activities you
+need to accomplish to deliver that word
+package on your WBS so let me give you
+an example WPS package door tasks cut the door
+frame the door put the lock so this are
+the activities that will deliver that
+scope and why activities are here
+because the activities are the root of
+you create your sequence and the
+duration so you need to have this
+capillarity you need to understand which
+kind of activities to then understand ok
+how much time and what do I need to do
+first and look one thing are you looking
+that I'm making a lot of arrows why I am
+spending my time doing this all this
+sets of arrows it's because I want to
+make clear and that the biggest is
+mistake and even when people talk and
+use the concept of waterfall you know
+when you use the waterfall when the
+water goes down the water does not come
+back so this technically cannot be seen
+as waterful because I'm talking that we
+go back all this time to revisit because maybe you were put in a duration here
+and you see oh god I forgot another
+activity and then you need to come back
+in most of the time you may come back
+here and this is a fluid process it's a
+fluid it's not rigid if it's rigid it's
+wrong
+pay attention on that if it's ready it's wrong so this is just a mental model to
+help you to understand how you should
+and after doing all of this what you
+will do you will develop your scandal
+and many people ask me okay what is a
+scandal is it a Gantt chart is it a
+network diagram yes yes and much more
+schedule is any kind of display of how
+your project will be place it over time
+the most common of course because of the
+tools are the Gantt chart the network
+diagram but you need to develop your
+schedule so this schedule here will give
+you an idea of how much time do you need to perform everything to perform and to
+deliver this code so this is the second
+group did you see that I'm bringing this
+I'm bringing this again to the project
+plan after that scope scale I have the
+cost side because now I have the
+activities I know the scope now I can
+start thinking about the cost of my
+project and the first thing I do and I
+will repeat this many times I need to
+plan the cost management
+did you see how things start to repeat plan cost plan schedule and plan scope
+so here rules of the scope here rules of
+the schedule here rules of the cost for
+example who has the approval to spend
+money if I'm over for example the cost
+of one one material or one resource is
+over budget
+who has the autonomy to approve that what do I do
+so these are the rules of the game when
+the game is talking about cost then
+after that I will estimate costs if I
+know the activities and I have a clear
+idea of my scope I can estimate cost and
+then after estimating cost knowing the
+I have my schedule I can do what I can
+develop my budget I can understand my
+s-curve I can understand how do I plan
+to spend the money and these three tasks
+are part the planning process related to
+scope after that I need to plan the
+quality management again one more time
+remember when the word plan and management comes together we only change
+here what the knowledge area so what do
+I want here you may answer with me I
+want here to know which are the quality
+astonished I need to comply with the
+project what is quality for me on this
+context what do I expect to be delivered
+in terms of quality and this will also
+be together with my project plan after
+that I need to start remember look eight
+seven six these are the chapters so it's
+very common for those who are not used
+to the PM book it's very common that we
+say o chapter 6 when we say chapter 6 we
+are talking about schedule so this is
+why we start with 4 and why not with three or two or one because chapter one
+two and three there are definitions and
+this is why we start with number four so
+now I need to introduce to you to a new
+knowledge area but an old new knowledge
+area it used to be called human
+resources but now it's just resources
+why because now I am incorporating on
+this area materials equipment and human
+resources so now this knowledge area is
+called resource and the first one is
+plan resource management so every single
+one its plan management rules of the
+game of how do I plan to manage my
+resources
+in a very simple way so how do I plan to recruit am i able to recruit people or
+do I need to use internal resources am I
+able to buy things or do I need to use
+the procurement area so this are all here these are the rules remember most
+of the time if you have any area that
+supports your project like a project
+management office or PMO most of this is
+already done you have some rules and
+policies in place that regulate what you
+can do as a project management in what
+you can't after that you need to
+estimate activity resources oops let's
+understand this let's understand this
+because here we have something new in
+the past activity resource or estimate
+resources used to be on the time now
+with this new resource area it was
+moving to resource but I want you to pay
+attention on this this item 9.2 okay and
+this item six four six point four they
+are brothers they are twins better they
+were they they cannot live without the
+other why because I need to do to know which
+resource I have 2x to make how much time
+I will take let me give you a very super
+simple example let's take this wall and
+let's take I say a one worker can build
+this wall in 10 days it's reasonable to
+say that two workers can be it in five
+days so this is exactly what I'm talking
+here because most of the tasks, most I'm
+not saying all are effort driven. When
+I say effort driven I'm saying if you add
+more resources you reduce the time up to
+a certain level so this is why it used
+to be together now it's in two different
+areas does it mean that you
+need to do it separately no never think
+about that
+so this to process are the process related to resources remember one thing
+costs are intimately linked to resources
+and time so did you see that how things
+were together so if you were reading the
+PM book you should try to follow
+something like that you should not read
+9.3 after 9.2 I suggest you to read 10.1
+in Y 10.1 because this is what you
+should do in the planning phase then you
+do communications management look as I
+said here rules of scope schedule cost
+quality resource here is communication
+here it's just it's like different this
+plan communication management one of the
+key things here it's you will build your communication plan so basically you know
+what do you want to communicate who do
+you want to communicate to what where do
+you want to communicate when do you want
+to communicate how much it will cost
+this communication how do you want to
+communicate so this basic information so
+if you have a meeting if you are planning an exception meeting if you
+have for example meetings only if
+something goes wrong outside the
+boundaries so you can put this here because this will regulate your
+communication so it's a very very
+important I will talk about this a
+little bit later when when I'm talking about stakeholders here so after doing
+that then it comes to another very big
+knowledge area almost as big as as a
+scope and schedule it's risk management
+why because risk is a intrinsic part of
+your project so the first thing you need
+to do is to plan how you want to
+approach risk management and
+let me explain here basically the answer
+you want to give you the only answer
+that is super relevant is what is your
+tolerance why let's suppose I invite you
+to do a bank jump maybe for me it's
+extremely risky maybe for you it's not
+so tolerance
+it's exactly what define what is risk for your group in your organization and
+what is not risk for your group in your
+organization because if you don't know
+what is your tolerance maybe everything
+can be a risk or nothing can be a risk
+after knowing that you or your risk
+tolerance then you come here and you
+start to identify your risks so together
+with your stakeholders your group you
+start to identify okay which kind of risk do I have in this project which
+kind of traps and opportunities do I
+need to manage after let's suppose you
+identify here let me guess 300 things
+that may happen in your project positive
+and negative what do you need to do after that you cannot say oh I will
+answer to everything it most of the time
+it's just impossible so what do you do
+you do two things you do a qualitative
+risk analysis and quantitative risk
+analysis so you do both what is the
+difference between this two items
+qualitative I use a scale low medium
+high green color yellow color red color
+so I use some kind of standard some kind
+of scale and what is a quantitative risk
+analysis when I use math to calculate
+probability and impact for example let's
+suppose I have a dice of six faces and I
+want to know what's the chance to get
+one in the dice it's 1/6
+so this is calculated this is
+quantitative many times quantitative is
+great but many times quantitative is
+much harder to get so this is exactly to
+understand each of the risks identified
+are they big are they very big risks or
+irrelevant risks and this will help me
+to do what this will help me to plan
+potential responses to death risks so
+what I need to do here I need to plan I
+need to identify okay what can I do to
+protect my project from that risk then
+maybe I will say I'll buy an insurance
+or maybe I will say I will change some
+parts of my scope maybe I will put more
+financial reserves so it depends so then
+you plan this and this five processes
+they work together again look the arrows
+they go forward and backward why because
+maybe you are doing the quantitative
+analysis and suddenly you identify
+another risk and you cannot say all the
+risk is done I cannot go back this is
+not good if you do that it will be wrong
+completely wrong then you go back here
+maybe you don't go only back here you
+look go to the plan to understand the
+integrated impact of your response to
+understand okay do I need to put more
+money so remember this is all fluid this
+look all the process only exists to
+support you to understand what you need
+to do that's it so now on the
+procurement plan so you need to
+understand basically what you need to do
+and what you need to do in terms of what
+what do I need to buy what do I need to
+make so the make or buy decision is
+right here so
+what I would do with with my procurement will like do everything internally or
+not unless but definitely not least is
+the try and a stakeholder engagement and
+what is this remember identify the stakeholders here
+so now I need to understand it too that
+my stakeholders for example influence
+and power and I need to group them and
+understand what I will do here and now I
+want to give you another advice remember
+the twins I said here between duration
+and resources I want to introduce you to
+another set of twins plan communication
+remember I introduced and plan
+stakeholder engagement why I'm telling
+these two are also twins because most of
+the communication will be exactly to
+reinforce stakeholder engagement so I
+need to do this together for example
+let's suppose that you have a
+stakeholder here that you need some kind
+of special communication then you come
+here and you create this communication
+so this is why they're twins and they work together so this was the planning
+process and at the end everything is
+consolidated in this project management
+plan okay so this will give you an idea
+on how do you plan to do this project
+this I'm working about what what and
+here how so this is my approach to this
+project and then later we'll talk about
+how do we execute and monitor and
+control our project
+after having our plan ready we will
+start this accusin and the monitoring
+and controlling process so I want now of
+course I will explain first basic ution
+but I want now to highlight both
+execution and monitoring and why I
+wanted to highlight this to process at
+the same time because they work together
+you don't execute everything to check if
+everything is fine so it's a process
+that is a very fluid process here so you
+execute a new check everything is fine
+then then you may replant look this
+arrow you made really cute so it's a
+very very fluid process and of course
+the center of the planning was
+integration the center of the initiation
+was integration the center of this
+equation is exactly one more time
+integration so the third integration
+process the second was the plan the turn
+direct and managed project work what is
+important here it's not saying is acute
+in the project why because all this flow
+is how you will manage the project and
+now you you as a project manager or a
+team member you usually are not the
+resource is acute in the work most of
+the time so what do you need to do you
+direct and you manage the work that is being done by what by the resources you
+are defining for the activities so this
+is exactly the idea and now there is one
+new thing on the p.m. Bach
+extradition it's a new integration
+process called manage project knowledge
+in a very very simple way you can
+understand this as lessons learn it so
+what do you you need to register what
+you're learning from the project work
+what is working what is not working what
+is doing well not well and you
+registered this because this knowledge
+is very it's it's very valuable so you
+need to have this lessons learning so
+this to process are the two central processes of this equation but this to
+process are supported by all this order
+process let's see them the first one is
+manage quality remember one thing here
+plan quality here you are setting how
+your quality will be here you're
+managing the results that I'm getting
+from here are reasonable in terms of
+quality now related to resources you
+will acquire the resources here is where
+you will hire new team members buy
+materials buy things and this process is
+the central process here in this
+occasion together with this because the work will be done by these resources and
+it's very important why we do it here
+and not here on on the on the planning
+because I always try to do this as late
+as possible because this is money so
+resources I always wait until the last
+minute of course look this is not
+mathematics this is project management
+so maybe sometimes there is a delay
+between the time that you acquire the resources and the time they are
+available for you so many times you need
+to anticipate any starting some
+procurement process and some acquisition process here of course for obvious
+reasons then of course for the human
+resources you acquired you will develop
+a team and at the same time manage this
+team another question you may ask me
+what's the difference between develop
+and manage develop the team is to make
+the rest human resources you brought to
+the project work together as a team
+where 1+1 is more than to manage a team
+it's more towards the operational
+aspects what is operational aspects who
+someone needs to take leave someone is
+sick and cannot come so you manage the
+daily work of your team so it's a very
+very important process in this process
+will happen during oh this occasion and
+they will be a supporting pillar to the
+to central product processes then after
+that what I need to do I need to manage
+my communications this is the execution
+of your plan so remember you built a
+plan base it on the stakeholders you
+want to engage here is the time of you
+making the meetings so when you say
+where is the status report meeting it's
+here exactly here in the managing
+communications that will support your execution then after that you need to
+implement risk responses Wow this is new
+- this is new because here I'm learning
+the risk responses here I'm implementing
+let's suppose here I plan to buy an
+insurance here I buy dangerous I'm
+planning to change something in the
+scope here is where I change things so
+this is the actions related to the plans
+and one thing together with the project
+knowledge let me put a mark here this
+are two new processes for the p.m.
+böck guide sixth edition after that I
+will conduct procurement by things
+remember here you made a decision of
+making buy if it's buy you need to come
+here and buy it so you conduct all the
+procurement processes based it on what
+day is it exactly on how you plan your
+procurement one important thing I said
+about the twins here remember between
+activity durations and resources twins
+here between stakeholder management and
+communication plan now I have the third set of twins conduct procurement and
+acquire resources why because most of
+the time the way you acquire resources
+will require a procurement process so this are presented in two separate ways
+but in reality they are all the same
+thing because you need to buy a material
+then you need to conduct the procurement to buy that material so this r2 process
+that are very well connected last but
+not least here in the siq you ssin you
+manage the stakeholder engagement so
+let's understand that identify my
+stakeholders here I plan I understood
+their power their influence their
+interests and then I created a
+communication plan to manage my
+communication with them here I'm managing it's my process to engage these
+stakeholders working or do I need to
+change let's suppose that I have a group
+that is very resistant to my project it
+is my approach working with them or not
+or should I change should I change my
+approach maybe I'm sending okay write a
+written report maybe I should call I
+don't know so but here you need to see
+what is happening with the stakeholder
+engagement is it something changing here
+for example someone is gain power losing
+in
+so you manage your stakeholders here these are Disick yueshen process and
+then we move to the monitoring and
+controlling process that will work
+together with this ik you show on the
+monitoring and controlling I am doing
+things in parallel here I'm doing the
+work here and making sure that the work
+I'm doing here is okay remember I
+started with integration integration and
+integration what I will start here integration and what do I do
+I will monitor and control the work so
+here I'm managing and directly I'm
+assigning tasks running with the
+resources towards the results here I'm
+saying is it everything okay it's the
+time I was planning here on the on the
+schedule is it working or not
+second I need to perform the integrated
+control change this is a really really
+really really important process and why
+this process is so important because
+your project will face changes a hundred
+percent sure of that there is no way
+that what you estimate that here will
+happen perfectly because the word has so
+many variabilities that it's just
+impossible so what do you need you need
+to manage this changes you need to
+understand and the second word that it's extremely important here is this
+integrated the integrated means I'm not
+only working scope time cost quality I'm
+working on everything and if there is a
+change how I can make this change in the
+way that you it will be great for the
+project not great for scope for example
+but great for the project as a whole
+and then what I need to do I need to do
+a series of work the first work I need
+to do is basically basically I need to
+validate the scope and then control the
+scope so I need to validate and people
+what's the difference here
+it's just that check I check the scope
+that's here define it in the scope
+statement was delivered and if something
+is different I need to control the scope
+remember all these words starting with
+control are subsets with disintegrated
+so here I'm concerned about changes in
+the scope of the project for example I
+was building a house and when I see I'm
+not building a house anymore I'm building a restaurant whoops what's
+going on here the second it's of course
+and obvious let me just leave here make
+this group here on the scope and attach
+this to the integration then the second
+one is control scandal is it something
+going wrong am i becoming late is there
+any issue on time remember here I have a
+schedule but maybe things are not
+perfect so here I can't remember here
+the focus is on time here scope control
+scope control scatter and this will be
+added to this integrated change control
+then I need to control costs so look
+look did you see did you see one thing
+that there is a lot of repetition in different areas so when you read you
+need to understand because if you
+understood one you understood oh because
+they are just different topics so here
+let's suppose let's give an example
+let's suppose that you estimate that
+cost look
+seven point to base it on a resource
+then you did on 12 point to a
+procurement process to hired or to buy
+this resource and then the resource was
+much more expensive than what you expected then you start running over
+budget then you need to control this
+cost so this is exactly how things work
+here it's a it's a very very fluid
+process then you need to control quality
+all tasks related to changes in quality
+will be here most of the total quality
+management tasks they are here most of
+the statistical process are here so you
+need to control the quality right
+because when you are managing the
+quality here they are different from
+what you expect on your quality
+management plan so look it's a very very
+fluid then you need to control resource
+ops for those with the PMBOK fifth
+edition this is a new process okay
+new process together with implement risk
+response and manage project knowledge so
+the culture resource what do I mean by
+that do I need to add more resources we
+need to reduce are the resources
+performing in level that I want after
+that I need to monitor communications
+remember let's go to the communication
+understand the communication process
+look here I have a plan 10.1 that is
+based on a certain stakeholder
+engagement 13.2 then during the process
+I manage I issue the reports the
+meetings whatever the phone calls and
+then I manage this stakeholder but maybe I need to change then I monitor because
+this I may update my plan or maybe I
+will update the way I manage so it's
+exactly what I'm looking here then in
+parallel this all happens at the same
+time in a very fluid way and monitor risks why because some risks
+that I thought oh they are no for
+example here I did a qualitative risk
+analysis on eleven point three say it's
+low but something happens and the risks
+became very very high let me give you a
+very quick example let's suppose that
+I'm importing some products and let's suppose that this products will be
+arriving close to the end of the year
+and let's suppose that the customs of my
+country decide to say I will close my
+operations between 15th of December and
+15th of January this will increase
+dramatically your probability of having
+the product late so you need to monitor
+because the risks they change everything
+look look on TV what happens every day
+on TV things change when we are talking
+about monitoring risks then after that
+we need to control my procurement what
+is this this is where I make payments I
+receive goods I receive service so all
+the process that it's based on the
+procurements I did on this occasion so
+this are working together and of course
+very close to monitor communications
+very close to monitor communications
+item ten point three I need to monitor
+stakeholder engagement
+why because stakeholders may change so
+I'm managing and changing and look this
+again this to process they are happening
+almost at the same time in a very very
+integrated way remember here I may be
+come back so one thing that I'm super
+concerned when I'm teaching this is that
+people think and think wrongly that this
+is you know written on stone that when
+you do this you never come back look one
+more time this is wrong and this is why
+I'm telling you despite of of several common this is
+very a
+child 2 this is absolute it's so agile
+that TMI on the PM bak release it the
+agile practice together with this to
+show how agile components can be use it
+here can be used it here but of course
+if you think that you write a
+requirement and then it's over or that
+this is just putting on paper that then
+you are in trouble
+but understand one thing these are very fluid and they do not need to be very
+large formal but it's a more a mental
+process for example I'm just talking to
+you and presenting this and this seems to me extremely logical so I initiate a
+plan as a queue to monitor and then I go
+to the closing process so after doing
+this so let's suppose that my project is
+over I deliver so the the stakeholder
+the client received the product so now
+what I need to do I need to go to the
+closing process in the closing process
+process is basic on one integration
+process that is closed project or phase
+Y project or phase because I can use
+this for the project or for just one piece of the product I can do this for
+every single piece like a rolling wave
+and here I will include all the work I
+need to do I need to celebrate I need to
+hand out the documents and this what is
+very very important here is that in the
+past it used to have another process
+here called closing procurement and this
+process disappeared and was incorporated
+here so the closing is just this close
+project of phase to simplify and to
+unify that here you are closing basically everything so if you see the
+old 47
+47 boxes became now 49 y 49 47 plus the
+three new ones 50 minus this one
+49 so this is the full set of the PM BOC
+guide now what I want to suggest you so
+how you can learn this in a very simple
+and direct way I want to invite you
+please go to my website download this
+the link is below download this download
+this pieces ok they are importing is in
+English put the tape in the back and
+just play and have fun try to do it
+alone
+try to understand and with the p.m. BOC
+guide in your hands you can say plan
+procurement management I mean not sure
+about what is that you can go and read a little bit more you will understand the
+logic and everything that I showed to
+you today its logic its nimble and it's
+a child it's a job unfortunately a lot
+of people misunderstand this and they
+spend all the time just producing this
+it's it's like an ideology forget that
+what is relevant is you delivering your
+project I used hundreds of aspects of
+agile and hundreds of aspects of this it
+depends on which kind of project I'm
+doing how I'm doing the project sometimes I do all the parts sometimes I
+do less but this is a guideline it's
+exactly you start you plan you executed
+control and you're close in a very
+simple way but you don't need to say oh
+I'm not following the PM bak right because I'm not doing item 94.4 don't do
+that don't waste your time thinking
+about that remember the framework exists
+to support your project and not your
+life exists to support the framework
+think about that have fun test this and
+then you can read and understand the PM
+Bach and all this process flow in a very
+very easy way one last thing remember
+that the air of that goes both sides
+this is exactly why I don't want you to
+consider this waterfall because the
+water that falls that it's not come back
+here what I'm telling to you and ANSI is
+telling to you and P it's that
+everything can come back and most of the
+time everything comes back to be fix it
+because the the perfect conditions do
+not exist your project think about that
+practice and good look

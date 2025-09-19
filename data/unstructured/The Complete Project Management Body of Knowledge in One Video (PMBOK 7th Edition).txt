@@ -1,0 +1,1777 @@
+hi everyone i'm so glad you're here this
+is the entire guide to the project
+management body of knowledge edition 7
+all in one video there's a lot of
+information here so take a break if you
+need to otherwise sit back and relax and
+absorb all of this beautiful information
+let's get into it we start with the 12
+principles of project management and
+they are be a diligent respectful and
+caring steward create a collaborative
+team environment effectively engage with
+stakeholders focus on the value that
+you're delivering and make sure that we
+are delivering value to the business or
+the organization or to customers
+recognize evaluate and respond to system
+interactions and there are going to be
+many different system interactions and
+sometimes these are complex demonstrate
+leadership behaviors and help our people
+thrive in our project tailor the project
+based on what's happening in the
+organization or based on the content or
+the product itself build quality into
+processes and deliverables to stop us
+from making mistakes navigate complexity
+optimize risk responses so make sure
+we're we're uncovering risks in our
+project embrace adaptability and
+resiliency so uncover that for our
+people and enable change to achieve the
+envisioned future state projects are all
+about change in the end there are three
+sections to the project management body
+of knowledge and we've got the project
+performance domains we've got tailoring
+those project performance domains and
+then of course we've got the models
+methods and artifacts that we'll be
+using as project managers throughout the
+life of our project with our project
+performance domains we've got our
+stakeholder performance domain so all
+the stakeholders will need to be
+interacting with the team the project
+team the development approach and the
+life cycle so how we're actually going
+about doing our project the planning of
+our project the project work itself so
+committing and performing that project
+work delivering the item and delivering
+what we said we're going to deliver then
+measuring everything to make sure we're
+still on track and lastly uncertainty
+and risk and managing that throughout
+our project the first one is the
+stakeholder performance domain and the
+outcomes we're looking for here are
+productive working relationships with
+all of our stakeholders stakeholder
+agreement with the project objectives so
+keeping them on side making sure that
+they're okay with what's being delivered
+stakeholder beneficiaries to be
+supportive and satisfied with what we're
+delivering key terms we're coming across
+will be the stakeholder and that's
+anyone affected by the project or who's
+perceived to be affected by the project
+and on the right-hand side you can see
+we've got our project manager just in
+the in our first circle of influence and
+then as our circle of influence gets
+bigger we've got governing bodies
+project management officers steering
+committees and then ultimately our
+suppliers and customers and end users
+and regulatory bodies with stakeholder
+engagement first we want to identify the
+stakeholders and we might do that with
+an organizational chart then we want to
+understand our stakeholders and we might
+do that with our stakeholder engagement
+assessment matrix or something similar
+then we're analyzing our stakeholders
+and we could do that with a salience
+chart or we could do that with an uh
+with an impact over influence chart as
+well then we're prioritizing our
+stakeholders making sure we're engaging
+the right ones at the right times
+engaging with them regularly and
+monitoring that engagement as we go
+along stakeholder engagement and
+communication is used in meetings phone
+calls brainstorming and product demos as
+well now we might use different forms
+here we've got push communication where
+we're pushing it out to the people so
+we're sending an email or we're you know
+having a telephone call we're pushing
+that information out but then we've got
+pull communication as well where the
+people who are getting that information
+are getting it from
+either a bulletin board or a website or
+a sharepoint site or something similar
+they're pulling that information to them
+from somewhere else now what we can use
+is quick feedback loops as well so we
+want to know did the person understand
+the message do they agree with the
+message and is there any information
+missing so do they need any extra
+information if you're always going
+through this quick feedback loop you
+will have more successful communication
+our next section is team performance and
+the outcomes we're looking for with team
+performance are shared ownership of the
+project high performing teams leadership
+displayed by all members so that you
+know everyone is leading at all levels
+key terms we'll come across are the
+project manager project management team
+so the management team but then the
+project team itself who's doing the work
+in team performance we've got project
+team management and leadership and the
+difference is this management where
+we're meeting objectives having
+effective processes and monitoring the
+work we're getting things done and
+monitoring that things are getting done
+but leadership is where we're looking at
+the people growing our people
+influencing motivating listening and
+enabling the people that we're working
+with in our project we might have
+centralized leadership and
+accountability is this is where
+accountability is on one person for
+example the project manager we can use a
+project charter for approval of the
+scope and the roles so clarity of the
+roles if we've got centralized
+leadership so that everyone understands
+what's going on then we've got
+distributed leadership which is shared
+amongst the team we've got
+self-organizing teams with a facilitator
+usually a coach role or a lead role
+focusing on the growth of the team the
+team has autonomy to do what they want
+as long as it meets the goals that we're
+aiming for and it's servant leadership
+where we're removing blockers and
+focusing on the growth of the team with
+servant leaders they focus on obstacle
+removal and they're a diversion shield
+so they stop other people from
+interrupting the team and stopping them
+from getting their work done there's
+development opportunities for the team
+we're trying to grow them and become the
+best versions of themselves team
+development then includes vision and
+objectives clear roles and
+responsibilities team operations and
+guidance and growth as we're going along
+and trying to improve the team as the
+project progresses with project team
+culture the project manager must
+establish a safe respectful environment
+for open communication we want
+psychological safety here we can use
+things like transparency integrity
+respect positive discourse support
+courage celebrating success and support
+includes providing encouragement showing
+empathy and active listening with high
+performing project teams factors
+associated with this are open
+communication shared understanding of
+the work and the goals shared ownership
+trust collaboration amongst the team
+adaptability so open to change
+resilience in the face of change
+empowerment of the team to do the things
+that they need to get done and
+recognition when they do those things
+the leadership skills that we're looking
+for are things like establishing a
+vision we want that to be developed
+collaboratively with stakeholders and a
+vision answers these questions what is
+the project purpose what are the project
+benefits so what are we delivering and
+what defines success now of course we
+also need critical thinking and this is
+where we need to be aware of personal
+bias and we also want to research and
+analyze data to get to the right answers
+we can use deductive reasoning so this
+might be a generalized statement with a
+specific example or inductive reasoning
+which is a specific example that leads
+to a generalized statement next we want
+motivation of the team as well and we've
+got intrinsic motivation and extrinsic
+motivation intrinsic is internal it's a
+belief in the work achievement
+self-direction relatedness and personal
+growth and extrinsic is a money or bonus
+so external things like status
+interpersonal skills we'll need as we go
+along our journey are emotional
+intelligence and this is a
+self-awareness awareness of the things
+that we're experiencing internally
+self-management so managing our own
+emotions
+social awareness being aware of all of
+the social intricacies that are going on
+in the project and in our organization
+and social skill being able to navigate
+those things well enough to get the job
+done we want decision making and we want
+conflict management as well with
+conflict management we want to keep
+communication respectful we want to
+focus on the issue not the person we
+want to focus on the present and not
+dredge up the past and we want to search
+for alternatives together when we're
+tailoring leadership styles for our
+project we want to take into
+consideration the experience with this
+type of project that people have the
+maturity of the project team members
+organizational governance structures
+that might impact the way that we lead
+and distributed teams so do we need
+other things in place like video or chat
+or messaging
+or are we just around the corner in the
+same building
+our next section is development approach
+and life cycle of our project and the
+outcomes we're looking for here are the
+development approach is consistent with
+the deliverables we're delivering the
+project life cycle connects that
+delivery of value with all of the
+stakeholders from the beginning to the
+end of the project and the key terms
+that we'll come across are things like a
+deliverable which is the product or
+feature we're delivering the development
+approach which is the approach we use to
+create that deliverable the cadence
+which is all of our meetings and the the
+rhythm of things and interactions that
+we have on our project project phase
+which is the related activities that
+complete a deliverable and the project
+life cycle which is all of those phases
+from beginning to end now there's a
+relationship between development cadence
+and the life cycle so the type of
+deliverable determines how all of this
+might be developed there is different
+things like risk certainty or
+uncertainty complexity in a project and
+need for change maybe there's rapid
+change or maybe we've got more time all
+of this will impact what we do the
+delivery cadence is the timing and
+frequency of project deliverables and we
+might have things like a single delivery
+where we're just delivering once
+multiple deliveries so we're delivering
+multiple features or periodic deliveries
+where we're delivering features on a
+schedule so multiple deliveries on a
+fixed schedule similar to continuous
+delivery in devops development
+approaches that we'll come across are
+things like predictive development
+approaches this is your traditional
+waterfall approach and this is useful
+when the work is easily defined the
+scope is collected at the start there's
+a large investment or there's high risk
+and we can use frequent reviews and
+change control to keep this type of
+project under control the other sort is
+adaptive and this is what we consider
+agile now adaptive uses iterative and
+incremental approaches iterative is
+where we're taking feedback along the
+journey but then we're delivering still
+in one big go but incremental is where
+we're delivering features along our
+journey so usable pieces of work so
+we're taking that feedback but we're
+also delivering multiple features along
+a timeline now hybrid is a combination
+of both of these approaches predictive
+and adaptive and this will probably be
+the most common approach as many
+organizations take some parts from each
+of these different approaches
+considerations when we're selecting a
+development approach we might consider
+the product so what is the degree of
+innovation that we need what are the
+certainty of requirements adaptive can
+be useful if the scope is not well
+understood we might have scope stability
+is it very stable or unstable do we need
+to adjust the ease of change delivery
+options can it actually be delivered in
+multiple features or increments and the
+risk safety requirements or regulations
+maybe there's high amount of regulation
+and we need a lot of control on this
+product
+with the project we need to consider
+stakeholders is there actually a product
+owner available that might determine
+whether we use agile or not schedule
+constraints and funding availability
+with the organization we might consider
+the organizational structure is it flat
+or is it more bureaucratic so flat is
+where we can actually talk to someone a
+boss quite easily or bureaucratic is
+where you know they're far removed from
+the work and the situation the culture
+the organizational capability and the
+project team size and location with life
+cycle phase and definitions we've got
+these phases the feasibility so that's
+where we're actually figuring out if
+it's feasible to create this product the
+design of that product the build of that
+product testing that product then
+deploying or releasing it and finally
+closing off that phase now these will be
+used across all the different life
+cycles but in just in different ways for
+example waterfall will use all of these
+but in just once but adaptive might use
+all of these for each of the project
+increments that we're delivering
+kanban uses a flow based approach and
+that has no phase it's a pull approach
+where people pull the work only as
+they're ready when we're aligning the
+delivery cadence development and life
+cycle we're going to look at things like
+the cadence so the rhythm and the
+meetings so that's where we might have
+single or multiple deliveries the
+development approach we might have
+predictive hybrid adaptive which is
+incremental and iterative approaches and
+the life cycle which is what we've gone
+through which design build test deploy
+and close
+our next section is project planning
+performance so the outcomes we're
+looking for here are the project
+progresses in an organized deliberate
+manner that evolving information is used
+to produce the deliverables as needed so
+if we need to adjust the process for
+adapting your plan is based on emerging
+needs or conditions so we are adjusting
+if necessary the key terms that we'll
+come across are things like estimates
+accuracy so how correct is it did it do
+what we wanted it to do and precision
+can it do it over and over again how
+repeatable is it schedule crashing which
+is throwing resources at the thing
+schedule fast tracking which is doing
+things in parallel to each other at the
+same time and of course our budget with
+planning variables what determines how
+much planning is done we might look at
+the development style so we might have
+predictive which is lots of upfront
+planning or adaptive which is rolling
+wave planning where we're planning each
+increment and planning only in detail as
+we get closer to that increment we might
+look at project deliverables so
+construction might need more planning
+versus software which might be more
+flexible we're going to look at
+organizational requirements we might
+need governance policies processes and
+culture that might actually need certain
+ways of work to happen so we might have
+to abide by those rules the market
+conditions as well do we need a certain
+speeds to market do we need to release
+something quickly and of course legal or
+regulatory restrictions that we need to
+abide by when we're planning the
+delivery planning begins with
+understanding the business case so
+that's our feasibility study is it
+actually feasible for us to deliver this
+feature or increment or project the
+stakeholder requirements so what they
+actually need and the product and
+project scope the product scope is all
+of the features in the product but the
+project scope is the work performed to
+deliver those features as we go along
+and we want to break down all of these
+things the product scope and the project
+scope into a work breakdown structure to
+break down the work into things that
+people can actually work on as a team or
+an individual
+with planning variables we've got
+estimating so the types of estimates now
+there are different types of estimates
+and they start from far away and as we
+get closer to the delivery of the
+project then we want to get more refined
+as you can see we've got a wide range at
+the beginning but then it gets very very
+close and now we want it to be
+exact adjust your estimates for
+uncertainty so give it a little bit of
+leeway if you need to projects are
+inherently uncertain so use simulation
+like mock-ups or storyboards or
+prototypes and build in reserves so
+extra amounts of money that might be
+needed if things go off track accuracy
+and precision as we said accuracy is how
+correct is it is it doing what we needed
+did it hit the target and precision can
+it do it over and over again is it
+repeatable
+other estimating terms we'll see are
+confidence so the confidence in our
+estimates this increases with experience
+and the more you do it the better you'll
+get at it deterministic estimating is a
+number or a point probabilistic
+estimating is a range of options with
+probabilities for each of those things
+absolute estimates is just a number
+relativist estimates is a comparison to
+other estimates so like story cards or
+story points you'll see in agile flow
+based estimates uses cycle time which is
+the time to complete something and
+throughput which is the number of those
+things completed so that's quite good to
+determine how long something might take
+overall when we're creating our schedule
+we'll go through these steps we're going
+to decompose the project scope into
+specific activities using a work
+breakdown structure as well but we'll
+break it down into specific activities
+that we can then assign to a schedule
+then we want to sequence those
+activities of course and we might use a
+gantt chart to do that then we're going
+to estimate the effort duration and the
+people and resources required allocate
+those people and resources and then
+adjust that sequence estimates and
+resources until the schedule is agreed
+over time when we're managing our
+schedule we might use things like
+schedule crashing which is throwing
+money and resources at it to try and
+bring that schedule end date closer fast
+tracking which is doing things at the
+same time so doing them in parallel
+we're going to come across things like
+leads and lags leads is how how much we
+can bring an item forward for example if
+we're doing a photo shoot and photo
+editing we might be able to start
+editing
+halfway through our photo shoot because
+we've got some photos ready we can bring
+that forward with lags it's how much do
+we need to delay an item so it's lagging
+behind
+we might be pouring a concrete
+foundation for a house and then we need
+to wait for that foundation to set so
+we've got a five day lag here and then
+we can do our house frame after that you
+will come across dependencies as well
+and we've got things like mandatory
+dependencies which can't be modified
+discretionary dependencies which can be
+modified external dependencies so
+they're impacted by non-project
+activities external to our project and
+internal dependencies which are impacted
+by our project activities themselves
+we're going to have things like rolling
+wave planning where we're planning
+far away items just as a high level idea
+and as they get closer so near term then
+we do a detailed plan so it's just
+rolling continuously the far away items
+are just a high level idea near term we
+do a nice detailed plan when we're
+planning our budget there are certain
+steps we can go through estimates are
+applied to the project work to create
+the cost baseline but then we add a
+contingency reserve and we add that for
+unknown risks and we use that to create
+the project budget overall but then we
+add on top of that a management reserve
+and that management reserve is for
+unexpected activities that are added to
+the project budget and that brings us to
+our overall total for our project with
+our project team composition and
+structure we might have a choice between
+different people internal to our
+organization or external to our
+organization now we're going to need to
+consider certain things the cost of
+those people the expertise of those
+people and the location of those people
+so do we want them close by or is it
+okay to have them around the world when
+we're planning communication good
+communication helps us engage with our
+stakeholders effectively consider these
+things who needs the information what
+information do they need why do we need
+to share this information how do we
+provide this information to them when
+and how often do we need to share it who
+and where do we get that information
+from planning for our physical resources
+is for anything that is not a person now
+planning includes estimating for those
+resources knowing the supply chain and
+logistics of those resources and then
+resource management managing those
+resources we want to consider the lead
+time for delivery movement and transport
+and storage of materials now we need to
+think strategically about when to order
+those materials so we're not waiting for
+them as our project goes along when
+we're planning procurement once the
+scope is known we want to do a make or
+buy analysis what can be made in-house
+versus bought and what is the upfront
+cost of buying it or versus making it
+versus the ongoing cost this is
+something that people forget very often
+they might think that something's cheap
+to buy up front from an external vendor
+but then the ongoing costs are much more
+and that's where people get caught when
+we're planning for change in our project
+we want to prepare a process for
+adapting our plan throughout the project
+as it goes along this might include a
+change control process re-prioritizing a
+backlog with a product owner
+re-baselining project artifacts or
+outcomes and change might occur due to
+environmental changes like the
+organization customer requests or
+gaining a deeper understanding of the
+product or project scope planning also
+includes metrics and metrics is how we
+measure the work there's a separate
+complete measurement domain and we'll go
+into that later
+when we're planning for alignment
+planning activities and artifacts need
+to remain integrated throughout the
+project and so that's how we need to
+align for example requirements need to
+align with scope plans scope plans might
+need to align with schedule and cost
+management plans because they're all
+related the the scope impacts the cost
+quality and testing plans need to align
+with scope management plans logistics
+plans might need to align with resources
+plans and the project management plan
+overall
+integrates everything all together our
+next section is the project work now the
+outcomes we're looking for the project
+work itself are efficient and effective
+project performance appropriate project
+processes
+appropriate communication with
+stakeholders efficient management of
+physical resources and procurements
+improved capability of our people and
+team and the product due to continuous
+learning and process improvement as
+we're going along key terms that we'll
+see are bid documents which is proposals
+from our sellers bidder conferences to
+get multiple multiple ideas from
+different bidders explicit knowledge
+which can be codified into a process and
+tacit knowledge which is more personal
+knowledge so beliefs or experience
+with our project processes we want to
+periodically review the project process
+to make sure it still fits and tailor it
+to suit the environment we're currently
+in we can use things like lean
+production methods retrospectives or
+lessons learned asking what's working
+well or what do we still need to improve
+and where is the next best funding spent
+and of course we can use things like
+cost benefit analysis so or our value
+stream map up the top here
+when we're balancing competing
+constraints this is an ongoing activity
+and it can be done with the product
+owner or within the project depending on
+how we're managing it as you can see the
+constraints are scope quality cost and
+time and in an agile project the scope
+is variable but in a waterfall project
+or a predictive project the scope is
+usually fixed and the other items are
+more variable
+we can use trade-off sliders in our
+project to show people which ones are
+more fixed and which ones are more
+flexible so in this case the time is
+very fixed but in this case also the
+quality is the most flexible so we may
+not deliver the best quality product but
+we absolutely have to deliver on time
+when we're maintaining project team
+focus this is the project manager's
+responsibility and it includes things
+like short and long-term projections of
+progress towards goals so how is the
+team performing that's going to impact
+our project team's focus balancing the
+workload amongst the team making sure
+that no one is too overloaded and no
+one's slacking off and assessing if team
+members are satisfied with their work
+we're going to need project
+communications and engagement and
+communications include formal informal
+verbal and written communications
+they're collected in meetings
+conversations or pulled from
+repositories as a pull communication and
+they're distributed as per the
+communications plan if we're getting
+abundant ad hoc requests in our project
+this indicates we're not communicating
+enough so we just need to communicate
+more or in different ways to our project
+stakeholders when we're managing
+physical resources resources include
+materials and supplies from third
+parties the resource process might
+include planning ordering that resource
+transporting it storing it tracking and
+controlling that resource now large
+amounts of resources require a logistics
+system documented in company policies
+and this is where lean comes into it as
+well we want to eliminate wait time and
+reduce handling these are the lean
+wastes otherwise known as downtime we've
+got defects or rework which we want to
+avoid over production we want to avoid
+waiting not effective use of time and
+talent avoid transport if we can avoid
+too much inventory if we can avoid
+excessive motion and excessive
+processing when we're getting all these
+resources together and that will help us
+be more on time with our project working
+with procurements procurements involve
+contracts for things like material
+equipment labor or services
+project management won't usually write a
+contract themselves but will work with
+contracting officers in the organization
+with rigorous policies in place a
+project manager might work with
+technical experts and the contracting
+officers to develop things like request
+for proposal statement of work and the
+terms and conditions within your project
+the bidding process might include
+documents such as request for
+information which is to gather
+information from the market request for
+proposal which is where scope is complex
+so we might need different proposals
+request for a quote where price is the
+main factor and when we're choosing a
+vendor source selection this is often
+based on price the delivery so the terms
+of delivery and the experience of our
+vendor once a vendor is selected update
+the project plan with all of those
+vendor details the dates costs quality
+requirements and the vendor is now a
+project stakeholder that we need to keep
+engaged and keep communicating with as
+we go along monitoring new work and
+changes scope may evolve and change over
+the life of your project for adaptive
+projects the project manager works with
+the product owner to prioritize the
+scope in the product backlog low
+priority items may not get done in favor
+of high priority items for predictive
+projects which is our waterfall type
+project a change request is raised which
+goes through the change control board
+for approval noting any impact to cost
+quality scope or schedule which are all
+of those constraints that we spoke about
+before once approved the change is added
+to the project documents and
+communicated to all of the stakeholders
+in the project learning throughout the
+project have a knowledge management
+process to capture those lessons learned
+through a retrospective or a review for
+other projects to use later on here's
+where we're going to look at explicit
+knowledge which is a process and it can
+be taught and tacit knowledge which
+includes our beliefs and our experience
+now we're delving into the delivery
+performance domain
+outcomes we're looking for in delivery
+are that the project contributes to
+business objectives and the strategy the
+overall strategy projects realize the
+outcomes that they intended the benefits
+we wanted are realized in the intended
+time frame the project is clear on the
+requirements and stakeholders accept and
+are happy with the deliverables in the
+end the key terms that we'll come across
+are a requirement which is the
+capability needed in one of those
+products or features a work breakdown
+structure which work breaks down the
+work into smaller pieces definition of
+done quality
+and the cost of quality delivery of
+value how do we need to deliver that
+value we could use adaptive which is our
+incremental and iterative approaches
+delivers value along the journey or
+predictive which delivers value all in
+one go at the end now value remains long
+after the project is finished and values
+defined and monitored with a business
+case at the very beginning so this tells
+us if we are actually delivering value
+and why we're setting up this project
+and then it's also monitored in baseline
+documents within the project as we go
+along with different deliverables a
+deliverable is an increment of value
+which is a feature or a product we're
+going to have terms like requirements
+the conditional capability that needs to
+be met to satisfy the customer need in
+the end requirements elicitation
+elicitation is to draw out those
+requirements from where they're coming
+from from the customers we want to
+document them as clear concise
+verifiable so make sure we can check
+them and test them consistent we want
+them to be consistent across different
+requirements complete and traceable back
+to the requirements once we've delivered
+what they wanted they're evolving and
+discovering requirements and for this we
+can use prototypes storyboards mock-ups
+so we can create models or pictures or
+ideas before we create the actual item
+itself so we can save a bit of money if
+things go wrong when we're managing
+requirements ineffective requirements
+equal things like rework scope creep
+customer dissatisfaction budget overruns
+schedule delay and project failure so
+often one person is ultimately
+accountable for the things that are
+being delivered and we want to use
+backlogs or a traceability matrix when
+we're managing these requirements we're
+also going to be doing things like scope
+decomposition this is a work breakdown
+structure where we take the themes in
+our agile charter we turn them into
+epics so smaller items again and we turn
+those epics into user stories which are
+items that people can actually work on
+and deliver now there are other ways we
+can do this we might have a product
+roadmap and we might turn them into
+features and then we might turn those
+features into work packages whatever we
+call them it's the same idea of scope
+decomposition how do we define
+completion of those deliverables we want
+things like acceptance criteria so what
+is the criteria for this item to be
+accepted by the customer technical
+performance measures the definition of
+ready for us to start work on an item
+and the definition of done for when
+we're actually delivering that item and
+people are happy you might experience
+moving targets of completion so projects
+operating in uncertainty or changing
+markets these things might impact the
+deliverables and this is known as done
+drift
+when we're delivering for quality
+quality requirements are reflected in
+the completion criteria the definition
+of done the statement of work and
+requirements documentation now those who
+receive the benefit ultimately bear the
+cost of bad quality so that's why we
+want to look after our customers make
+sure we're still delivering good quality
+items otherwise they're going to bear
+the cost of that which brings us to the
+cost of quality now there are a few
+different items here such as prevention
+costs so preventing the bad quality in
+the first place we might have appraisal
+costs which is finding bad quality so as
+we're developing something or creating
+something we might be checking it to
+make sure that it's still okay internal
+failure costs is if we deliver something
+internally but we haven't released it to
+the customer yet and then we find it and
+it fails then we have to go back and we
+have to fix it all up and that's a
+little bit more costly but lastly the
+most costly is external failure which is
+when it gets to the customer and it
+fails in their hands as we can see the
+cost of change is higher towards the end
+of the project or towards the
+deliverable being delivered to counter
+this we want to build in quality and
+find those defects before they reach the
+end customer sub-optimal outcomes that
+we might experience now there's always a
+chance that a project does not meet its
+outcomes projects are very tricky
+environments and complex environments as
+well we might have uncertain
+environments or risk or markets changing
+markets or our competitor might get
+there first effective project management
+can help but there is always risk and
+that risk needs to be managed now we're
+into the measurement performance domain
+and the outcomes we're looking for here
+are a reliable understanding of the
+status of the project
+actionable data so that we can make the
+right decisions timely actions to keep
+project the project on track achieving
+targets and generating business value
+due to correct decisions and the key
+terms we'll come across are things like
+metrics baselines so baselines documents
+for our schedule scope or cost
+dashboards so we can see how things are
+going and we want to evaluate the
+performance compared to the plan track
+and utilize resources demonstrate
+accountability and feed conversations
+about project trade-offs or product
+trade-offs so all of these require
+measurement and metrics now how do we
+establish effective measures we might
+use things like key performance
+indicators kpis or objectives and key
+results okay ours leading indicators we
+can use are things like the size of a
+project so if it's really really big
+maybe it's going to be difficult to
+manage the items in a backlog have we
+got a lot left to deliver and lack of
+processes maybe we're going to run into
+problems in the future because we don't
+have a clear process involved
+lagging indicators are things like
+deliverables already completed the
+schedule or cost variance that's already
+happened and resources that we have
+already consumed but we can use those to
+have a look into the future to see if
+we're on track or off track
+effective metrics are smart they're
+specific measurable achievable relevant
+and timely now what do we want to
+measure in our project we want
+deliverable metrics so this is for the
+product or the feature this might
+include things like errors or defects
+measurements of performance efficiency
+and reliability and technical
+performance measures now we might have
+delivery metrics as well delivering in
+our project the work in progress the
+lead time for something to be delivered
+the cycle time for for a smaller piece
+to be delivered the queue size for
+example how much is left to go and the
+batch size how much are we getting done
+in certain sprints so in a two-week
+sprint for example and of course our
+project efficiency how efficient is
+everything going with our baseline
+performance versus our actual
+performance we're going to look at start
+and finish dates effort and duration the
+schedule variance the schedule
+performance index feature completion
+rates how fast are we completing things
+actual cost to planned cost and that
+cost variance in the end and that
+includes the cost performance index as
+well that you'll come across resources
+we'll use are planned versus actual
+resource use and the cost of that too
+we're going to measure business value
+and this includes the cost to benefit
+ratio so what's the cost of everything
+versus the benefit that we're getting in
+the end the planned versus actual
+benefits delivery return on investment
+or roi or net present value you'll see
+as well npv we want to measure
+stakeholders with our net promoter score
+so this is where we're measuring their
+engagement a mood chart morale of the
+team and turnover of the team that's
+what we can measure there we might
+measure with forecasts with our estimate
+to complete etc estimate at completion
+eac variance at completion vac and the
+two complete performance index tcpi we
+might use regression analysis to see
+trends and forecast those into the
+future or throughput analysis to see how
+fast things are moving through the
+system when we're presenting information
+we can use things like dashboards
+information radiators which is a visible
+backlog or burn down charts or risks we
+might use visual controls like task
+boards burn charts or other charts and
+there are certain measurement pitfalls
+that we want to avoid these are things
+like the hawthorne effect where what we
+measure actually influences people's
+behavior so we have to be careful what
+we are measuring vanity metrics so
+things that might seem important but
+actually don't move the needle towards a
+better strategy or a better outcome for
+our pro for our organization
+demoralization if it's not achievable
+people will get demoralized misusing the
+metrics so using the metrics for bad and
+not for good confirmation bias where
+we're actually just trying to confirm
+something that we want to be true
+instead of that's actually true and
+lastly correlation versus causation
+where something that
+just because something is happening at
+the same time doesn't mean that that
+thing caused that thing to happen so
+that's correlation versus causation when
+we're troubleshooting performance it's
+good to have agreed to plans for
+measuring outside of threshold ranges
+and using measurements to grow and
+improve the intent of displaying all of
+that data is ultimately to learn and
+improve it's really best to report
+information that will allow the team to
+learn
+facilitate a real decision help avoid an
+issue in the future or prevent
+performance breakdown in the future as
+well now we're into the uncertainty
+project performance domain and the
+outcomes we're looking for here are
+awareness of the environment so the
+political environment environmental
+social technological legal and other
+things all of those things we need to be
+aware of proactively exploring
+uncertainty awareness of the
+interdependence of multiple variables of
+the project so this is complexity
+ability to anticipate threats and
+opportunities and understand their
+consequences and the project delivery we
+want little impact from any of those
+unforeseen events opportunities we want
+to realize to improve the project
+performance based on all these things
+and using cost and schedule reserves to
+meet the project objectives if any of
+these pop up any of these uncertain
+things pop up in the future key terms
+we'll see are uncertainty ambiguity
+complexity volatility and risk and this
+is pestle and vuca so these are the
+terms that you'll see come up associated
+with those
+first there's general uncertainty now
+options for responding to uncertainty
+including gather information prepare for
+multiple outcomes
+use set-based design or prototyping so
+use models to to work our way through it
+before actually committing any money and
+build resilience into the process
+respond or change quickly
+ambiguity is also going to come up now
+there's conceptual ambiguity which is a
+general lack of understanding of the
+item or situational ambiguity which is
+where there's more than one outcome
+possible and so it's ambiguous we're not
+sure which way to go
+we can use here progressive elaboration
+so in other words deliver smaller
+features more often to work our way
+through those different paths we can use
+experiments so smaller items before
+we're delivering the actual item and
+again to save costs and prototyping
+complexity is another one and complexity
+is a characteristic that makes something
+difficult to manage with many
+interconnected influences approaches we
+can use for complexity are decoupling
+all of those interconnected things so
+disconnecting the parts to reduce all
+those variables and we can use
+simulation so monte carlo simulation
+does thousands or tens of thousands or a
+hundred thousand different runs of the
+same situation with different variables
+in each one so we can see the range of
+outcomes and then respond accordingly we
+might want to reframe this complexity so
+with diversity we can get a view from
+different perspectives to to get an
+answer we might balance with lagging and
+leading data to get the right answer as
+well or we might use processed based
+approach which is iterating or adding
+features incrementally so just
+uncovering it as we go engaging more
+with our stakeholders and error proofing
+the item or making it fail safe if we
+can
+we're going to come across volatility
+and this is where something is subject
+to rapid or unpredictable change we can
+use things like alternatives analysis so
+different alternatives and look at the
+pros and cons for each and reserves so
+contingency reserves and management
+reserves if things go wrong as well
+then we've got good old-fashioned risk
+and we want to capture risk with its
+probability of happening so how probable
+how probable is it that it occurs and
+the impact if it actually does occur and
+we can give that a number or we can give
+that a name and there are different ways
+to do that here but we want to capture
+those two things with threats we're
+going to do things like avoid the threat
+escalate the threat to a manager if we
+need to transfer the threat to another
+department or organization if we can
+mitigate that threat with controls or
+ways to control that risk or accept the
+threat if it's something that's
+acceptable to the organization now we
+might come across uncertain
+opportunities as well and that's where
+we want to exploit those opportunities
+we might want to escalate it as well to
+a manager if we need approval there we
+might want to share that opportunity
+with another department or another
+organization we want to enhance the
+opportunity and ultimately we might just
+want to accept the opportunity as well
+with risk we can use management and
+contingency reserves and have a regular
+risk review
+and that is the first section of the
+pmbok guide you guys are doing amazing
+stick with it the last two sections are
+much shorter than the first section so
+that's really really good i think you're
+doing an amazing job let's get into the
+next section now which is tailoring our
+project and with tailoring why do we
+want to tailor we're going to go into
+what's to taylor we're going to go into
+the tailoring process and tailoring each
+of the performance domains and how to do
+it
+tailoring is deliberately adapting the
+project management approach governance
+or process to suit the environment that
+we're in why do we want to tailor
+tailoring should reflect the size the
+duration the complexity of the project
+and be adapted to the industry and the
+project management maturity of the
+organization for example a team with
+less experience could use an out of the
+box method but a team with more
+experience might tailor it to their
+individual needs we want to tailor
+anything in a project to suit the
+situation and gain successful delivery
+when we're tailoring the life cycle and
+development approach we can use a
+combination of predictive which is our
+waterfall approach hybrid iterative
+incremental and adaptive or agile
+development approaches that we looked at
+earlier we can tailor the processes so
+decide which portions of the development
+approach should be
+added modified removed
+blended
+or aligned so for example we want same
+definitions across things like risk when
+we're tailoring engagement we want to
+look at the people decide who to use in
+particular areas what's their experience
+empowerment can you give more
+empowerment and flexibility or in other
+situations we might need more
+supervision or direction with
+integration how to create a diverse
+project team including external members
+as well when we're tailoring the tools
+in our project what software or
+equipment should we use factor in cost
+organizational preferences and existing
+items that we have already when we're
+tailoring methods and artifacts tailor
+the documents the artifacts and methods
+so they are appropriate for the project
+and the organization and that brings us
+to the tailoring process so with this we
+want to select the initial development
+approach or anything that we're looking
+at then we want to tailor it for the
+organization that we're working in then
+we want to tailor it for the specific
+project that we're working on and lastly
+we want to implement ongoing
+improvements so we want to see if it's
+working and improve it over time when
+we're tailoring as well we're going to
+select the initial development approach
+and here's where we need to apply our
+knowledge of the product and the
+necessary delivery cadence so what
+meetings are required how often do we
+need to meet what's the rhythm of our
+project you can use a suitability filter
+based on predictive hybrid adaptive
+approaches for example we might have
+predictive where there's high risk or
+the time frame is long or adaptive where
+we've got changing requirements and the
+need to deliver value early or move
+really fast tailoring for the
+organization is where the organization
+might have a project methodology
+management or development approach
+already in place and it's established
+governance processes as well now there
+may be contract terms that we need to
+meet if we're under contract all of
+these things will change how we tailor
+for the organization tailoring for the
+project things we'll need to consider
+are the product or deliverable so there
+might be compliance or criticality the
+type of product industry or market
+technology involved the time frame the
+stability of requirements the security
+needed or incremental delivery or
+delivering in one big bang when we're
+looking at the project team we're going
+to consider the team size the team
+geography organizational distribution
+the project team experience and the
+access that we have to the customer when
+we're considering culture do we have
+sufficient buy-in from all of the people
+do we have sufficient trust and
+empowerment of the team as needed and
+lastly organizational culture we need to
+make sure that this does align with the
+project approach and we can implement
+ongoing improvement as we go along now
+we're going to need to tailor the
+performance domains and these are all
+the ones that we've been through like
+stakeholder team development approach
+and life cycle planning the project work
+delivery measurement and uncertainty
+each of these can be tailored when we're
+tailoring for our stakeholders we want
+to ask is there a collaborative
+environment are stakeholders internal or
+external is technology available for
+communicating with our stakeholders are
+diverse languages spoken or even jargon
+within the company how many stakeholders
+do we have for more stakeholders more
+networks equals more complexity are
+there already existing relationships
+with our project team we're going to ask
+things like is the team co-located or
+dispersed are there diverse viewpoints
+and cultures involved are there internal
+people or contractors external to the
+organization is there an established
+project team culture already are there
+existing tools or are the new tools does
+the team need training and are there any
+special needs that the team needs when
+we're looking at the development
+approach and life cycle the things that
+we'll ask here are which development
+approach is appropriate for the product
+service or result based on the speed the
+quality and the scope needs that we need
+to deliver are there any formal or
+informal audit or governance of policies
+or procedures already in place when
+we're tailoring for planning we're going
+to ask things like do any internal or
+external environmental factors impact
+the planning things that are going on in
+the organization or in the market do
+resources and their productivity affect
+durations do we have the right people on
+board can they deliver fast enough or do
+we need to adjust
+are there formal or informal policies
+for cost estimating and budgeting do we
+need to go to a certain department how
+does the organization estimate cost with
+adaptive approaches is there already a
+process in place
+what if we have multiple procurements
+and are there laws or regulations
+affecting contracting when we're
+tailoring the project work the things
+we'll ask here are management processes
+are they based on cultural complexity
+how will the knowledge be used to foster
+collaboration what information will be
+collected and how will it be managed
+over the project how will we handle the
+lessons learned that we pick up along
+the way and is there a formal knowledge
+management repository that we need to
+engage with tailoring for delivery we're
+going to ask are there formal or
+informal requirements management systems
+in place are there formal informal
+validation and control related policies
+so do we need to keep everything under
+control do we have a steering committee
+or do we have change control board are
+these already in place in the
+organization what quality policies tools
+techniques or templates already exist in
+the organization for us to use are there
+any specific industry standards are
+there any unstable requirements so how
+will we manage those and managing for
+uncertainty the things we'll ask what is
+the risk appetite of our organization
+and the product or even just the culture
+within the project itself how are
+threats and opportunities identified and
+addressed as we go along in the project
+how will complexity and uncertainty
+impact our project does project size
+impact the risk approach and how
+strategically important is the project
+itself
+lastly with measurement we're going to
+ask how is value measured can we measure
+financial versus non-financial value how
+will the project enable data capture and
+report those benefits to the
+organization and what are the project
+status reporting requirements and now
+we're on to the last section which is
+models methods and artifacts and these
+are the things like the actual things
+that we'll do on a day-to-day basis the
+methods we'll go through as we manage
+our project and there's a whole bunch of
+things to go through here you're onto
+the last section and you are doing so
+great keep it up guys and keep learning
+i absolutely know that you can do this
+and i know you can use this to pass your
+exam if that's what you want or just get
+better at project management yourself
+let's get into this section models
+methods and artifacts a model helps
+explain how something works in the real
+world and now we've got different models
+we've got situational leadership models
+so ken blanchard's situational
+leadership too measures competence of a
+person and the commitment of the person
+as well and the oscar coaching model is
+we look at the outcome that we want this
+current situation the choices or
+consequences of doing different actions
+for the person the actions that we want
+a person to take and then reviewing all
+of these things and seeing where do we
+go from there models for communication
+across cultural communication this is
+where the message is influenced by the
+sender and receivers current knowledge
+experience language thinking and
+communication style and we have to
+understand that everyone is a little bit
+different even when we're in the same
+organization or country even so we'll
+have different knowledge and experience
+and these need to be adjusted for we'll
+also look at the effectiveness of
+communication channels and this is from
+alasdair coburn and it's measured by
+richness and effectiveness so richness
+means that we're able to handle multiple
+information cues simultaneously get
+rapid feedback it's personal and it uses
+natural language so it's you know for
+example face to face and then how
+effective is that over time
+now we're also looking at the gulf of
+execution and evaluation this is from
+donald norman and the gulf of execution
+is does it match what we expected it to
+do an evaluation does it support the
+user to discover how to interact with it
+or does it just leave them barren and
+trying to figure it out for themselves
+models for motivation with our team
+we've got herzberg's theory of
+motivation with this we've got hygiene
+factors so just the normal stable
+factors of motivation where we've got a
+decent salary decent and fair policies
+in place physical environment being nice
+with enough sunlight and you know not
+hurting our backs and that sort of thing
+but then we've got motivational factors
+once those hygiene factors are met we
+want achievement in the organization and
+we want growth for ourselves as well
+intrinsic versus extrinsic motivation
+where intrinsic is internal and that's
+things like autonomy so can we go about
+our own way to solve the problem can are
+we working towards mastery of this item
+and do we have a higher purpose for what
+we're working on extrinsic is external
+motivation where we're looking at money
+bonuses or status external to ourselves
+the theory of needs from david mcclellan
+people are driven by achievement power
+or affiliation to something great and
+theory x y and z from douglas mcgregor
+we've got x where people are driven only
+by income they're not ambitious and
+these people need micromanagement but
+then we've got why theory people who are
+intrinsically motivated to do good work
+and we can manage these as more of a
+coach and just coach these people but
+then we've got zed which is where people
+are motivated by a higher calling and
+they are working with a job for life
+there are common models for change so
+managing change in organizations this is
+from the project management institute
+itself where we formulate the change we
+plan the change we implement the change
+we sustain that change and then we
+manage the transition to the new state
+then we've got ad car as well which is
+very popular where we want people to
+have awareness of the change desire to
+change knowledge of what is changing the
+ability to change themselves and also
+reinforcement once that change is in
+place then we've got the eight steps to
+change from john kotter where we want to
+create urgency around the change form a
+powerful coalition so make sure we've
+got the right people on board creating a
+vision for that future state
+communicating that vision removing
+obstacles to the new state
+creating short-term wins as we go along
+building on that change and anchoring
+those changes in corporate culture
+there's the virginia satir model where
+we're looking at the late status quo
+which is business as usual the foreign
+element coming in which is a shift in
+the status quo then we've got chaos
+because you know things are new and
+different then we've got the
+transforming idea and then practice and
+integration and then we've finally got
+the new status quo
+with the transition model it was from
+william bridges we've got something that
+is ending then we're going through the
+state of losing and letting go of that
+item then we've got the neutral zone and
+finally we've got the new beginning for
+the new state there are models for
+complexity and with complexity we might
+use the synopin framework from dave
+snowden if an obvious cause-effect
+relationship exists we can use best
+practices to make a decision if a
+complicated relationship exists we want
+to assess the facts and just use good
+practices if complex relationships or
+unknown unknowns exist we want to probe
+the environment we want to iterate
+forward if chaotic environments exist we
+want to stabilize the situation and take
+steps to reduce the situation too
+complex
+lastly if a disordered situation exists
+break it into smaller parts and assess
+it from there we might use the stacy
+matrix from ralph stacy this measures by
+the uncertainty of the deliverable and
+the technology to create it by how
+simple it is complicated it is complex
+it is or chaotic the item is there are
+models for team development with team
+development we've got tuckman's ladder
+where the team is first forming we're
+forming then we're storming so there's
+lots of conflict as people work out
+their roles and responsibilities they're
+norming and getting into normal rhythms
+and cadence performing once we've got
+everything sorted out and finally as the
+project finishes we're adjourning
+there's the drexler sibling team
+performance model where we want our team
+to know the orientation why trust
+building so who do who does what goal
+clarification what it is we're here to
+do the commitment how we're going to do
+it implementation so the plan of how to
+do it then we're moving into high
+performance and ultimately renewal as we
+move through the processes other
+commonly used models we've got conflict
+model where we want to confront or
+problem solve with problem we might use
+collaborating we might compromise with
+our conflict we might smooth or
+accommodate for the other person or we
+might force through something or an idea
+with a conflict or we might withdraw
+from the conflict or avoid it that
+includes negotiation as well where we
+might have win-win approaches from all
+of those ideas win lose or lose win and
+then finally lose lose
+funnily enough if we're compromising
+usually it's a lose-lose situation
+because we're giving something up and
+the other person is giving something up
+so it's actually known as a lose-lose
+situation to have a win-win situation we
+need character maturity and trust and we
+need to approach the other person and
+look at their point of view there's the
+planning sweet spot from barry bowm the
+planning sweet spot is between planning
+up front to reduce risk and the time to
+market benefits so we want to reduce the
+time to market but we also want to give
+enough time for planning and somewhere
+in the middle there is the planning
+sweet spot we've got the process groups
+from the project management institute
+where we're initiating planning our
+project executing our project monitoring
+and controlling our project and closing
+our project as we go along and we've got
+the salience model which looks at power
+legitimacy and urgency of the
+stakeholders that we're dealing with
+now we're looking at commonly used
+methods a method is a means for
+achieving an outcome a result or a
+deliverable now there are methods for
+data gathering and analysis and we're
+going to go through a speed round here
+we've got alternatives analysis
+assumption and constraint analysis
+benchmarking where we're looking at the
+same process amongst different teams or
+organizations business justification
+analysis we're looking at the payback
+period or internal rate of return higher
+is better here return on investment
+which is the cost of the investment
+versus the the return that we're going
+to get on it net present value cost
+benefit analysis which is our benefit
+divided by our cost the check sheet to
+check sheet for defects or sales cost of
+quality which we've looked at prevention
+appraisal internal failure external
+failure decision tree analysis earned
+value analysis expected monetary value
+forecasting influence diagrams life
+cycle assessment make or buy analysis
+which we looked at as well probability
+and impact matrix which we use for risk
+process analysis like process flows or
+process flow charts regression analysis
+where we're looking at trends of items
+reserves and reserve analysis which
+we've looked at as well root cause
+analysis which is our ishikawa diagram
+or five wires getting to the root cause
+of the issue sensitivity analysis which
+is our tornado chart so that's how
+sensitive an item to changes in the
+future simulations like monte carlo
+simulations stakeholder analysis like
+our impact over influence that we did
+look at before
+swot analysis so strengths weaknesses
+opportunities and threats of an item the
+trend analysis value stream mapping
+variance analysis and what-if scenario
+analysis we did it well done we're going
+to have methods for estimating and we
+might have affinity grouping or
+analogous estimating which is where
+things were estimating based on things
+that are similar to something else
+function point metrics is the amount of
+business functionality or in an
+information system
+multi-point estimating which uses the
+optimistic estimate most likely estimate
+and pessimistic estimate and we divide
+that by three to just get an average
+amongst the three parametric estimating
+uses a parameter like fifty dollars a
+meter or eighty dollars an hour relative
+estimating use is used in agile and it's
+estimated by how they relate to other
+estimates single point estimating and
+story point estimating we might use the
+fibonacci method so 1 2 3 5 8 13 21 to
+estimate for story points and then we've
+got wideband delphi estimating which
+does multiple rounds of estimates and
+starts broad and then over time becomes
+accurate as we do more of those
+estimates methods for meetings and
+events we've got a kick-off meeting
+we've got iteration planning backlog
+refinement daily stand-ups iteration
+review and retrospectives which are all
+agile or adaptive meetings and methods
+we've got the change control board bit
+of conferences lessons learned and we've
+got planning meetings project closeout
+meetings project reviews release
+planning risk review meetings status
+meetings and steering committee meetings
+as well other methods that we'll come
+across are things like impact mapping
+modeling the net promoter score where we
+ask on a scale of one to ten how likely
+would you be to recommend us to a friend
+and we take that and use that for our
+customers we might have prioritization
+schema for example moscow so must have
+should have could have or won't have for
+an item or time boxing that item
+commonly used artifacts that we'll come
+across an artifact is a template
+document or project deliverable
+strategic artifacts we might have our
+business case we might have the business
+model canvas we might have the project
+brief or the project charter we might
+have project vision statement and the
+product roadmap as we go along
+logs and registrars we might have are
+the assumption log the backlog the risk
+adjusted backlog which is where we've
+got risk items or items of risk added
+into our backlog and it's adjusted for
+that we've got the change log the issue
+log and the lessons learned register and
+we've got our risk register for
+capturing all those risks and
+uncertainties the stakeholder register
+captures all the stakeholders that we
+need to engage with in our project other
+commonly used artifacts are things like
+our project plans and this describes the
+how so the how to the process we'll use
+and the boundaries for each of these
+areas like the change control plan the
+communications management plan cost
+management iteration plan for agile
+procurement management for external
+items
+project management plan which ties it
+all together quality management plan for
+testing or quality release plan for when
+we're releasing an item requirements
+management plan so tying it back to the
+requirements and the scope making sure
+that's all managed together resource
+management plan risk management plan
+scope schedule stakeholder engagement
+plan and our test plan as well
+we might see hierarchy charts like an
+organizational breakdown structure a
+product breakdown structure a resource
+breakdown structure a risk breakdown
+structure or a work breakdown structure
+to break down the work into smaller
+pieces to work on baselines we might see
+these are the original estimates for the
+budget the milestone schedules
+performance measurement baselines like
+scope schedule or cost and the project
+schedule scope baselines like the scope
+statement which is the work breakdown
+structure and the work breakdown
+structure dictionary artifacts for
+visual data and information we're going
+to use affinity diagrams burn up or burn
+down charts cause and effect diagrams
+cumulative flow diagrams cycle time
+charts which is where each one of these
+items represents how long something is
+taking according to the days on the left
+hand side here dashboards flow charts
+for a process gantt charts for our
+schedule histograms as we capture data
+information radiators so putting all of
+our information on a wall lead time
+charts prioritization matrix or a
+schedule network diagram we might use
+requirements traceability matrix
+resource assignment matrix scatter
+diagram s-curve for capturing data or
+displaying data stakeholder engagement
+assessment matrix story map throughput
+chart use cases
+value stream maps and velocity charts
+reports we might see are the quality
+report the risk report or the status
+report agreements and contracts we might
+see fixed price contracts cost
+reimbursable contracts which is where
+the we have the seller cost and then
+they add a little bit on top for the
+seller profit and these might include
+the cost plus award fee cost plus fixed
+fee or cost plus incentive fee we might
+have time and materials contracts
+indefinite delivery indefinite quality
+contracts which is an indefinite
+quantity of goods within upper and lower
+limits within a fixed time frame and we
+might have other agreements like
+memorandum of understanding memorandum
+of agreement service level agreement or
+basic ordering agreement boa other
+artifacts we'll see are an activity list
+bid documents like a request for
+information request for quote request
+for proposal
+metrics project calendar requirements
+documentation and project team calendar
+or user stories and that's it you've
+done it you've made it to the end of the
+project management body of knowledge
+seventh edition the entire thing we did
+the whole thing well done guys i knew
+you could do it and i have complete
+faith in you that you can take this
+knowledge and become a better project
+worker project manager or just use it to
+improve your life i've had an absolute
+blast doing this with you and i hope
+you've had a good time too i'll see you
+in the next video bye for now
